@@ -373,7 +373,67 @@
 			"ShowVideoAds": "0",
 			"URLtoLunch": "https://www.trustpilot.com/review/www.17track.net"
 
-		}]
+		}],
+    "giftcards":
+
+    [{
+      "Jinterstitial": "ca-app-pub-5441480127903791/8598888596",
+      "Jbanner": "ca-app-pub-5441480127903791/2225051938",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://bit.ly/3qhfaRQ"
+
+    }],
+    "roblox":
+
+    [{
+      "Jinterstitial": "ca-app-pub-5441480127903791/6655251531",
+      "Jbanner": "ca-app-pub-5441480127903791/1594496548",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "http://bit.ly/2XFrorb"
+
+    }],
+    "gizmos":
+
+    [{
+      "Jinterstitial": "ca-app-pub-5441480127903791/5150598170",
+      "Jbanner": "ca-app-pub-5441480127903791/9013003321",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://www.explorelearning.com"
+
+    }],
+    "runescape":
+
+    [{
+      "Jinterstitial": "ca-app-pub-5441480127903791/6195268297",
+      "Jbanner": "ca-app-pub-5441480127903791/3645944812",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "http://bit.ly/38yDA3s"
+
+    }]
 
 
 

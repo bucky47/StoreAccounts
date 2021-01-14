@@ -1,0 +1,383 @@
+{
+    	"onlyfans":
+
+		[{
+			"Jinterstitial": "ca-app-pub-7221836429577371/3067991202",
+			"Jbanner": "ca-app-pub-7221836429577371/9521718914",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1321228411584966_1321228468251627",
+			"FB_Interstitial": "1321228411584966_1321228464918294",
+			"AdsType": "fa",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/OnlyFans"
+
+		}],
+	"mp3downloader":
+
+		[{
+			"Jinterstitial": "ca-app-pub-7876665967385272/2320873986",
+			"Jbanner": "ca-app-pub-7876665967385272/7844663404",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-7876665967385272~9596728773",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1063471930782603_1063471967449266",
+			"FB_Interstitial": "1063471930782603_1063471977449265",
+			"AdsType": "admob",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/AmericanMusicAwards/"
+
+		}],
+		"Ratatouille":
+
+		[{
+			"Jinterstitial": "ca-app-pub-9909838687142259/8042191689",
+			"Jbanner": "ca-app-pub-9909838687142259/2981436699",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "159447949270308_159448005936969",
+			"FB_Interstitial": "159447949270308_159448009270302",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/TikTokRatatouillemusical/"
+
+		}],
+			"Msnbc":
+
+		[{
+			"Jinterstitial": "ca-app-pub-9909838687142259/5060805127",
+			"Jbanner": "ca-app-pub-9909838687142259/1313131804",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "835152273723919_835152303723916",
+			"FB_Interstitial": "835152273723919_835152307057249",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "http://on.msnbc.com/2MJJZjS"
+
+		}],
+				"ufc257":
+
+		[{
+			"Jinterstitial": "ca-app-pub-9909838687142259/7467476614",
+			"Jbanner": "ca-app-pub-9909838687142259/6023544768",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1063471930782603_1063471967449266",
+			"FB_Interstitial": "1063471930782603_1063471977449265",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/UFC158/"
+
+		}],
+					"amongus":
+
+		[{
+			"Jinterstitial": "ca-app-pub-9909838687142259/5180224629",
+			"Jbanner": "ca-app-pub-9909838687142259/5990743416",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "707451153475106_707451186808436",
+			"FB_Interstitial": "707451153475106_707451190141769",
+			"AdsType": "admob",
+			"ShowVideoAds": "1",
+			"URLtoLunch": "https://live.vevonova.com/amongus/"
+
+		}],
+						"HappyMod":
+
+		[{
+			"Jinterstitial": "ca-app-pub-9909838687142259/3174660773",
+			"Jbanner": "ca-app-pub-9909838687142259/7113905784",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "admob",
+			"ShowVideoAds": "1",
+			"URLtoLunch": "https://play.google.com/store/apps"
+
+		}],
+						"test":
+
+		[{
+			"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+			"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "admob",
+			"ShowVideoAds": "1",
+			"URLtoLunch": "https://ustvgo.tv/msnbc/"
+
+		}],
+			"australianOpen":
+
+		[{
+			"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+			"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/Australianopentennis/"
+
+		}],
+			"SkiChampionships":
+
+		[{
+			"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+			"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/TourdeSki2020/"
+
+		}],
+			"nascar":
+
+		[{
+			"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+			"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/Daytona500/"
+
+		}],
+			"nba":
+
+		[{
+			"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+			"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/nba/"
+
+		}],
+		"NFL":
+
+		[{
+			"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+			"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/nfl/NFLSchedule"
+
+		}],
+			"NHL":
+
+		[{
+			"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+			"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/nhl/"
+
+		}],
+			"PradaCup":
+
+		[{
+			"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+			"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "http://live.vevonova.com/PradaCup"
+
+		}],
+			"Scotties":
+
+		[{
+			"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+			"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/ontarioscotties/"
+
+		}],
+			"SuperBowl":
+
+		[{
+			"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+			"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/SuperBowl/"
+
+		}],
+			"UFC258":
+
+		[{
+			"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+			"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://live.vevonova.com/UFC248/"
+
+		}],
+    "flightradar24":
+
+		[{
+			"Jinterstitial": "ca-app-pub-7221836429577371/1315925839",
+			"Jbanner": "ca-app-pub-7221836429577371/3334572754",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://gomspace.com/flightradar24.aspx"
+
+		}],
+    "mortgagerates":
+
+		[{
+			"Jinterstitial": "ca-app-pub-9909838687142259/7632171726",
+			"Jbanner": "ca-app-pub-9909838687142259/8945253397",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://www.bankofamerica.com/mortgage/mortgage-calculator/"
+
+		}],
+    "skyscanner":
+
+		[{
+			"Jinterstitial": "ca-app-pub-9909838687142259/8753681707",
+			"Jbanner": "ca-app-pub-9909838687142259/8849868718",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://www.crunchbase.com/organization/skyscanner"
+
+		}],
+    "SMAVote":
+
+		[{
+			"Jinterstitial": "ca-app-pub-9909838687142259/4854783388",
+			"Jbanner": "ca-app-pub-9909838687142259/8794028390",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://seoulmusicawards.com/vote.html"
+
+		}],
+    "TocaLife1":
+
+		[{
+			"Jinterstitial": "ca-app-pub-9909838687142259/5593149988",
+			"Jbanner": "ca-app-pub-9909838687142259/8219313323",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://tocaboca.com/app/world/"
+
+		}],
+    "Tocalife2":
+
+		[{
+			"Jinterstitial": "ca-app-pub-9909838687142259/4187734820",
+			"Jbanner": "ca-app-pub-9909838687142259/5210006607",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://tocaboca.com/app/world/"
+
+		}],
+    "TrackingApp":
+
+		[{
+			"Jinterstitial": "ca-app-pub-9909838687142259/9696046525",
+			"Jbanner": "ca-app-pub-9909838687142259/2009128193",
+			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "1771817359647380_1771817402980709",
+			"FB_Interstitial": "1771817359647380_1771817399647376",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
+			"URLtoLunch": "https://www.trustpilot.com/review/www.17track.net"
+
+		}]
+
+
+
+
+
+
+}

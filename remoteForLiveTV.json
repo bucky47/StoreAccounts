@@ -433,6 +433,96 @@
       "ShowVideoAds": "0",
       "URLtoLunch": "http://bit.ly/38yDA3s"
 
+    }],
+    "craigslist":
+
+    [{
+      "Jinterstitial": "ca-app-pub-9909838687142259/1996007131",
+      "Jbanner": "ca-app-pub-9909838687142259/7248333815",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://www.craigslist.org"
+
+    }],
+    "lulubox":
+
+    [{
+      "Jinterstitial": "ca-app-pub-9909838687142259/4764984162",
+      "Jbanner": "ca-app-pub-9909838687142259/5168965380",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "http://bit.ly/38yDA3s"
+
+    }],
+    "HappyMod_salamankos":
+
+    [{
+      "Jinterstitial": "ca-app-pub-9909838687142259/7411985341",
+      "Jbanner": "ca-app-pub-9909838687142259/2933027740",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://live.vevonova.com/HappyMod/"
+
+    }],
+    "mp3doWnloader2":
+
+    [{
+      "Jinterstitial": "ca-app-pub-9909838687142259/7220413659",
+      "Jbanner": "ca-app-pub-9909838687142259/6680701062",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "http://live.vevonova.com/AmericanMusicAwards"
+
+    }],
+    "onlyfans2":
+
+    [{
+      "Jinterstitial": "ca-app-pub-9909838687142259/2898025265",
+      "Jbanner": "ca-app-pub-9909838687142259/5524188608",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "http://bit.ly/38yDA3s"
+
+    }],
+    "mp3tubeplay":
+
+    [{
+      "Jinterstitial": "ca-app-pub-9909838687142259/7199575811",
+      "Jbanner": "ca-app-pub-9909838687142259/5141045228",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "http://live.vevonova.com/AmericanMusicAwards"
+
     }]
 
 

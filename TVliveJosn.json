@@ -1,0 +1,204 @@
+{
+      "13abc":
+
+  		[{
+  			"Jinterstitial": "ca-app-pub-7221836429577371/1627399529",
+  			"Jbanner": "ca-app-pub-7221836429577371/6468662667",
+  			"nativeAds": "ca-app-pub-7221836429577371/9201162438",
+  			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+  			" f_publisher_id": "ca-app-pub-3940256099942544",
+  			"FB_Banner": "1771817359647380_1771817402980709",
+  			"FB_Interstitial": "1771817359647380_1771817399647376",
+  			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+  			"AdsType": " f",
+  			"ShowVideoAds": "0",
+  			"ActivitySwitch": "main",
+  			"URLtoLunch": "https://www.13abc.com",
+  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+  		}],
+		"cbsn":
+
+  		[{
+  			"Jinterstitial": "ca-app-pub-7221836429577371/3842499325",
+  			"Jbanner": "ca-app-pub-7221836429577371/2908691602",
+  			"nativeAds": "ca-app-pub-7221836429577371/2717119916",
+  			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+  			" f_publisher_id": "ca-app-pub-3940256099942544",
+  			"FB_Banner": "1771817359647380_1771817402980709",
+  			"FB_Interstitial": "1771817359647380_1771817399647376",
+  			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+  			"AdsType": " f",
+  			"ShowVideoAds": "0",
+  			"ActivitySwitch": "main",
+  			"URLtoLunch": "https://www.cbsnews.com/live/",
+  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+  		}],
+		"msnbc":
+
+  		[{
+  			"Jinterstitial": "ca-app-pub-7221836429577371/5183501159",
+  			"Jbanner": "ca-app-pub-7221836429577371/3647058202",
+  			"nativeAds": "ca-app-pub-7221836429577371/5261917429",
+  			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+  			" f_publisher_id": "ca-app-pub-3940256099942544",
+  			"FB_Banner": "1771817359647380_1771817402980709",
+  			"FB_Interstitial": "1771817359647380_1771817399647376",
+  			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+  			"AdsType": " f",
+  			"ShowVideoAds": "0",
+  			"ActivitySwitch": "main",
+  			"URLtoLunch": "https://www.msnbc.com/",
+  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+  		}],
+		"rte1":
+
+  		[{
+  			"Jinterstitial": "ca-app-pub-7221836429577371/8903254319",
+  			"Jbanner": "ca-app-pub-7221836429577371/4768568180",
+  			"nativeAds": "ca-app-pub-7221836429577371/6385095708",
+  			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+  			" f_publisher_id": "ca-app-pub-3940256099942544",
+  			"FB_Banner": "1771817359647380_1771817402980709",
+  			"FB_Interstitial": "1771817359647380_1771817399647376",
+  			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+  			"AdsType": " f",
+  			"ShowVideoAds": "0",
+  			"ActivitySwitch": "main",
+  			"URLtoLunch": "https://www.rte.ie/tv/",
+  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+  		}],
+		"tvnz2":
+
+  		[{
+  			"Jinterstitial": "ca-app-pub-7221836429577371/2880787351",
+  			"Jbanner": "ca-app-pub-7221836429577371/1759277371",
+  			"nativeAds": "ca-app-pub-7221836429577371/7941542344",
+  			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+  			" f_publisher_id": "ca-app-pub-3940256099942544",
+  			"FB_Banner": "1771817359647380_1771817402980709",
+  			"FB_Interstitial": "1771817359647380_1771817399647376",
+  			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+  			"AdsType": " f",
+  			"ShowVideoAds": "0",
+  			"ActivitySwitch": "main",
+  			"URLtoLunch": "https://www.tvnz.co.nz/livetv/tvnz-2",
+  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+  		}],
+		"tvp1":
+
+  		[{
+  			"Jinterstitial": "ca-app-pub-7221836429577371/3427582268",
+  			"Jbanner": "ca-app-pub-7221836429577371/4740663935",
+  			"nativeAds": "ca-app-pub-7221836429577371/8488337250",
+  			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+  			" f_publisher_id": "ca-app-pub-3940256099942544",
+  			"FB_Banner": "1771817359647380_1771817402980709",
+  			"FB_Interstitial": "1771817359647380_1771817399647376",
+  			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+  			"AdsType": " f",
+  			"ShowVideoAds": "0",
+  			"ActivitySwitch": "main",
+  			"URLtoLunch": "https://tvp1.tvp.pl/",
+  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+  		}],
+		"2Mlive":
+
+  		[{
+  			"Jinterstitial": "ca-app-pub-7221836429577371/1755585553",
+  			"Jbanner": "ca-app-pub-7221836429577371/3068667220",
+  			"nativeAds": "ca-app-pub-7221836429577371/9593519455",
+  			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+  			" f_publisher_id": "ca-app-pub-3940256099942544",
+  			"FB_Banner": "1771817359647380_1771817402980709",
+  			"FB_Interstitial": "1771817359647380_1771817399647376",
+  			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+  			"AdsType": "admob",
+  			"ShowVideoAds": "0",
+  			"ActivitySwitch": "f",
+  			"URLtoLunch": "https://ustream.to/live?id=msnbc",
+  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+  		}],
+		"aloula":
+
+  		[{
+  			"Jinterstitial": "ca-app-pub-7221836429577371/1523457744",
+  			"Jbanner": "ca-app-pub-7221836429577371/4720660243",
+  			"nativeAds": "ca-app-pub-7221836429577371/1180870488",
+  			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+  			" f_publisher_id": "ca-app-pub-3940256099942544",
+  			"FB_Banner": "1771817359647380_1771817402980709",
+  			"FB_Interstitial": "1771817359647380_1771817399647376",
+  			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+  			"AdsType": "f",
+  			"ShowVideoAds": "0",
+  			"ActivitySwitch": "main",
+  			"URLtoLunch": "http://www.alaoula.ma",
+  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+  		}],
+		"mbc5":
+
+  		[{
+  			"Jinterstitial": "ca-app-pub-7221836429577371/2094496906",
+  			"Jbanner": "ca-app-pub-7221836429577371/8384379560",
+  			"nativeAds": "ca-app-pub-7221836429577371/8572081828",
+  			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+  			" f_publisher_id": "ca-app-pub-3940256099942544",
+  			"FB_Banner": "1771817359647380_1771817402980709",
+  			"FB_Interstitial": "1771817359647380_1771817399647376",
+  			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+  			"AdsType": " f",
+  			"ShowVideoAds": "0",
+  			"ActivitySwitch": "main",
+  			"URLtoLunch": "https://www.mbc.net/channels/mbc5",
+  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+  		}],
+		"arriyadiya":
+
+  		[{
+  			"Jinterstitial": "ca-app-pub-7221836429577371/7685734930",
+  			"Jbanner": "ca-app-pub-7221836429577371/7067428464",
+  			"nativeAds": "ca-app-pub-7221836429577371/1818971210",
+  			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+  			" f_publisher_id": "ca-app-pub-3940256099942544",
+  			"FB_Banner": "1771817359647380_1771817402980709",
+  			"FB_Interstitial": "1771817359647380_1771817399647376",
+  			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+  			"AdsType": " f",
+  			"ShowVideoAds": "0",
+  			"ActivitySwitch": "main",
+  			"URLtoLunch": "https://arryadia.snrt.ma/",
+  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+  		}],
+		"tilfazAll":
+
+  		[{
+  			"Jinterstitial": "ca-app-pub-7221836429577371/7997366756",
+  			"Jbanner": "ca-app-pub-7221836429577371/4249693438",
+  			"nativeAds": "ca-app-pub-7221836429577371/7889749067",
+  			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+  			" f_publisher_id": "ca-app-pub-3940256099942544",
+  			"FB_Banner": "1771817359647380_1771817402980709",
+  			"FB_Interstitial": "1771817359647380_1771817399647376",
+  			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+  			"AdsType": " f",
+  			"ShowVideoAds": "0",
+  			"ActivitySwitch": "main",
+  			"URLtoLunch": "https://shahid.mbc.net/ar/livestream",
+  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+  		}]
+
+
+
+
+}

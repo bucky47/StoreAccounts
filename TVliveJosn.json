@@ -13,7 +13,7 @@
   			"AdsType": " f",
   			"ShowVideoAds": "0",
   			"ActivitySwitch": "main",
-  			"URLtoLunch": "https://www.13abc.com",
+  			"URLtoLunch": "https://www.13abc.com/livestream/",
   			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
 
   		}],
@@ -32,7 +32,7 @@
   			"ShowVideoAds": "0",
   			"ActivitySwitch": "main",
   			"URLtoLunch": "https://www.cbsnews.com/live/",
-  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+  			"JtvURL": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8"
 
   		}],
 		"msnbc":

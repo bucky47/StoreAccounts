@@ -474,9 +474,9 @@
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "1771817359647380_1771817402980709",
       "FB_Interstitial": "1771817359647380_1771817399647376",
-      "AdsType": "f",
-      "ShowVideoAds": "0",
-      "URLtoLunch": "https://live.vevonova.com/HappyMod/"
+      "AdsType": "admob",
+      "ShowVideoAds": "1",
+      "URLtoLunch": "https://www.happymod.com/popular-mod.html"
 
     }],
     "mp3doWnloader2":
@@ -504,9 +504,9 @@
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "1771817359647380_1771817402980709",
       "FB_Interstitial": "1771817359647380_1771817399647376",
-      "AdsType": "f",
-      "ShowVideoAds": "0",
-      "URLtoLunch": "http://bit.ly/38yDA3s"
+      "AdsType": "admob",
+      "ShowVideoAds": "1",
+      "URLtoLunch": "https://onlyfans.com"
 
     }],
     "mp3tubeplay":
@@ -519,9 +519,9 @@
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "1771817359647380_1771817402980709",
       "FB_Interstitial": "1771817359647380_1771817399647376",
-      "AdsType": "f",
-      "ShowVideoAds": "0",
-      "URLtoLunch": "http://live.vevonova.com/AmericanMusicAwards"
+      "AdsType": "admob",
+      "ShowVideoAds": "1",
+      "URLtoLunch": "https://www.mp3juices.cc"
 
     }],
     "antutu":

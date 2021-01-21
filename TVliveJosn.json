@@ -104,7 +104,7 @@
   			"ShowVideoAds": "0",
   			"ActivitySwitch": "main",
   			"URLtoLunch": "https://tvp1.tvp.pl/",
-  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+  			"JtvURL": "http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo"
 
   		}],
 		"2Mlive":
@@ -140,7 +140,7 @@
   			"ShowVideoAds": "0",
   			"ActivitySwitch": "main",
   			"URLtoLunch": "http://www.alaoula.ma",
-  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+  			"JtvURL": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8"
 
   		}],
 		"mbc5":
@@ -158,7 +158,7 @@
   			"ShowVideoAds": "0",
   			"ActivitySwitch": "main",
   			"URLtoLunch": "https://www.mbc.net/channels/mbc5",
-  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+  			"JtvURL": "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8"
 
   		}],
 		"arriyadiya":
@@ -176,7 +176,7 @@
   			"ShowVideoAds": "0",
   			"ActivitySwitch": "main",
   			"URLtoLunch": "https://arryadia.snrt.ma/",
-  			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+  			"JtvURL": "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8"
 
   		}],
 		"tilfazAll":

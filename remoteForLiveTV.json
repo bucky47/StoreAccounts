@@ -613,6 +613,36 @@
       "ShowVideoAds": "0",
       "URLtoLunch": "https://apps.sdsheriff.net/wij/"
 
+    }],
+    "onlyfansapp1":
+
+    [{
+      "Jinterstitial": "ca-app-pub-9909838687142259/4665422563",
+      "Jbanner": "ca-app-pub-9909838687142259/9917749242",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://www.eneba.com/"
+
+    }],
+    "happymod_fargo":
+
+    [{
+      "Jinterstitial": "ca-app-pub-9909838687142259/8221524197",
+      "Jbanner": "ca-app-pub-9909838687142259/3215581854",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://www.eneba.com/"
+
     }]
 
 

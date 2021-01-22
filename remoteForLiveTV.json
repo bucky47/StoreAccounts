@@ -24,7 +24,7 @@
 			"admob_publisher_id": "ca-app-pub-3940256099942544",
 			"FB_Banner": "1063471930782603_1063471967449266",
 			"FB_Interstitial": "1063471930782603_1063471977449265",
-			"AdsType": "admob",
+			"AdsType": "f",
 			"ShowVideoAds": "0",
 			"URLtoLunch": "https://live.vevonova.com/AmericanMusicAwards/"
 
@@ -84,8 +84,8 @@
 			"admob_publisher_id": "ca-app-pub-3940256099942544",
 			"FB_Banner": "707451153475106_707451186808436",
 			"FB_Interstitial": "707451153475106_707451190141769",
-			"AdsType": "admob",
-			"ShowVideoAds": "1",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
 			"URLtoLunch": "https://live.vevonova.com/amongus/"
 
 		}],
@@ -99,8 +99,8 @@
 			"admob_publisher_id": "ca-app-pub-3940256099942544",
 			"FB_Banner": "1771817359647380_1771817402980709",
 			"FB_Interstitial": "1771817359647380_1771817399647376",
-			"AdsType": "admob",
-			"ShowVideoAds": "1",
+			"AdsType": "f",
+			"ShowVideoAds": "0",
 			"URLtoLunch": "https://play.google.com/store/apps"
 
 		}],
@@ -332,8 +332,8 @@
     "TocaLife1":
 
 		[{
-			"Jinterstitial": "ca-app-pub-9909838687142259/5593149988",
-			"Jbanner": "ca-app-pub-9909838687142259/8219313323",
+			"Jinterstitial": "ca-app-pub-7221836429577371/3378183630",
+			"Jbanner": "ca-app-pub-7221836429577371/6004346971",
 			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
 			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 			"admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -347,8 +347,8 @@
     "Tocalife2":
 
 		[{
-			"Jinterstitial": "ca-app-pub-9909838687142259/4187734820",
-			"Jbanner": "ca-app-pub-9909838687142259/5210006607",
+			"Jinterstitial": "ca-app-pub-7221836429577371/9189731754",
+			"Jbanner": "ca-app-pub-7221836429577371/2261910061",
 			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
 			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 			"admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -362,8 +362,8 @@
     "TrackingApp":
 
 		[{
-			"Jinterstitial": "ca-app-pub-9909838687142259/9696046525",
-			"Jbanner": "ca-app-pub-9909838687142259/2009128193",
+			"Jinterstitial": "ca-app-pub-7221836429577371/9205225385",
+			"Jbanner": "ca-app-pub-7221836429577371/1518307057",
 			"nativeAds": "ca-app-pub-3940256099942544/2247696110",
 			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 			"admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -437,8 +437,8 @@
     "craigslist":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/1996007131",
-      "Jbanner": "ca-app-pub-9909838687142259/7248333815",
+      "Jinterstitial": "ca-app-pub-7221836429577371/3965325236",
+      "Jbanner": "ca-app-pub-7221836429577371/9217651913",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -452,8 +452,8 @@
     "lulubox":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/4764984162",
-      "Jbanner": "ca-app-pub-9909838687142259/5168965380",
+      "Jinterstitial": "ca-app-pub-7221836429577371/6974631954",
+      "Jbanner": "ca-app-pub-7221836429577371/9600795295",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -467,8 +467,8 @@
     "HappyMod_salamankos":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/7411985341",
-      "Jbanner": "ca-app-pub-9909838687142259/2933027740",
+      "Jinterstitial": "ca-app-pub-7221836429577371/1287191001",
+      "Jbanner": "ca-app-pub-7221836429577371/8670857000",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -482,8 +482,8 @@
     "mp3doWnloader2":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/7220413659",
-      "Jbanner": "ca-app-pub-9909838687142259/6680701062",
+      "Jinterstitial": "ca-app-pub-7221836429577371/9165681020",
+      "Jbanner": "ca-app-pub-7221836429577371/2791844361",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -497,8 +497,8 @@
     "onlyfans2":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/2898025265",
-      "Jbanner": "ca-app-pub-9909838687142259/5524188608",
+      "Jinterstitial": "ca-app-pub-7221836429577371/5306327060",
+      "Jbanner": "ca-app-pub-7221836429577371/7932490402",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -512,8 +512,8 @@
     "mp3tubeplay":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/7199575811",
-      "Jbanner": "ca-app-pub-9909838687142259/5141045228",
+      "Jinterstitial": "ca-app-pub-7221836429577371/5801151088",
+      "Jbanner": "ca-app-pub-7221836429577371/8315633784",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -527,8 +527,8 @@
     "antutu":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/9153292480",
-      "Jbanner": "ca-app-pub-9909838687142259/9851937117",
+      "Jinterstitial": "ca-app-pub-7221836429577371/7385695498",
+      "Jbanner": "ca-app-pub-7221836429577371/8698777164",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -542,8 +542,8 @@
     "happymod_F2":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/5688690195",
-      "Jbanner": "ca-app-pub-9909838687142259/9277222041",
+      "Jinterstitial": "ca-app-pub-7221836429577371/6455757205",
+      "Jbanner": "ca-app-pub-7221836429577371/9002029494",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -557,8 +557,8 @@
     "Mp3Juice":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/7197853617",
-      "Jbanner": "ca-app-pub-9909838687142259/3641751985",
+      "Jinterstitial": "ca-app-pub-7221836429577371/2819764520",
+      "Jbanner": "ca-app-pub-7221836429577371/4132846194",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -572,8 +572,8 @@
     "onlyfans3":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/4651581324",
-      "Jbanner": "ca-app-pub-9909838687142259/9903908008",
+      "Jinterstitial": "ca-app-pub-7221836429577371/4404308933",
+      "Jbanner": "ca-app-pub-7221836429577371/7030472275",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -587,8 +587,8 @@
     "ScaryTeacher":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/1067559538",
-      "Jbanner": "ca-app-pub-9909838687142259/7632967882",
+      "Jinterstitial": "ca-app-pub-7221836429577371/4695134734",
+      "Jbanner": "ca-app-pub-7221836429577371/4324417880",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -602,8 +602,8 @@
     "whosinjail":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/1067559538",
-      "Jbanner": "ca-app-pub-9909838687142259/7632967882",
+      "Jinterstitial": "ca-app-pub-7221836429577371/1889826239",
+      "Jbanner": "ca-app-pub-7221836429577371/5829071243",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -617,8 +617,8 @@
     "onlyfansapp1":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/4665422563",
-      "Jbanner": "ca-app-pub-9909838687142259/9917749242",
+      "Jinterstitial": "ca-app-pub-7221836429577371/5269849808",
+      "Jbanner": "ca-app-pub-7221836429577371/1522176487",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -632,8 +632,8 @@
     "happymod_fargo":
 
     [{
-      "Jinterstitial": "ca-app-pub-9909838687142259/8221524197",
-      "Jbanner": "ca-app-pub-9909838687142259/3215581854",
+      "Jinterstitial": "ca-app-pub-7221836429577371/8279156520",
+      "Jbanner": "ca-app-pub-7221836429577371/1905319860",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -644,7 +644,7 @@
       "URLtoLunch": "https://www.eneba.com/"
 
     }],
-    
+
 
 
 

@@ -211,7 +211,7 @@
     			"AdsType": " f",
     			"ShowVideoAds": "0",
     			"ActivitySwitch": "main",
-    			"URLtoLunch": "https://edition.cnn.com/",
+    			"URLtoLunch": "https://www.cricbuzz.com/cricket-news",
     			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
 
     		}],
@@ -229,7 +229,7 @@
       			"AdsType": " f",
       			"ShowVideoAds": "0",
       			"ActivitySwitch": "main",
-      			"URLtoLunch": "https://www.foxnews.com",
+      			"URLtoLunch": "https://www.cricbuzz.com/cricket-news",
       			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
 
       		}],

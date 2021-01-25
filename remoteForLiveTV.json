@@ -519,7 +519,7 @@
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "242349450837419_242349500837414",
       "FB_Interstitial": "242349450837419_242349497504081",
-      "AdsType": "f",
+      "AdsType": "admob",
       "ShowVideoAds": "1",
       "URLtoLunch": "https://www.mp3juices.cc"
 
@@ -549,9 +549,9 @@
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "1771817359647380_1771817402980709",
       "FB_Interstitial": "1771817359647380_1771817399647376",
-      "AdsType": "f",
+      "AdsType": "admob",
       "ShowVideoAds": "0",
-      "URLtoLunch": "https://live.vevonova.com/HappyMod/"
+      "URLtoLunch": "https://www.happymod.com/top-mod.html"
 
     }],
     "Mp3Juice":
@@ -594,9 +594,9 @@
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "1771817359647380_1771817402980709",
       "FB_Interstitial": "1771817359647380_1771817399647376",
-      "AdsType": "f",
-      "ShowVideoAds": "0",
-      "URLtoLunch": "http://live.vevonova.com/AmericanMusicAwards"
+      "AdsType": "admob",
+      "ShowVideoAds": "1",
+      "URLtoLunch": "http://bit.ly/39fmKa0"
 
     }],
     "whosinjail":

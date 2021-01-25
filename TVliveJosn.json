@@ -196,7 +196,61 @@
   			"URLtoLunch": "https://shahid.mbc.net/ar/livestream",
   			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
 
-  		}]
+  		}],
+      "cnn_zir":
+
+    		[{
+    			"Jinterstitial": "ca-app-pub-4578347973710420/9880685254",
+    			"Jbanner": "ca-app-pub-4578347973710420/3506848596",
+    			"nativeAds": "ca-app-pub-4578347973710420/4628358571",
+    			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+    			" f_publisher_id": "ca-app-pub-3940256099942544",
+    			"FB_Banner": "1771817359647380_1771817402980709",
+    			"FB_Interstitial": "1771817359647380_1771817399647376",
+    			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+    			"AdsType": " f",
+    			"ShowVideoAds": "0",
+    			"ActivitySwitch": "main",
+    			"URLtoLunch": "https://edition.cnn.com/",
+    			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+    		}],
+        "fox_zir":
+
+      		[{
+      			"Jinterstitial": "ca-app-pub-4578347973710420/4436786889",
+      			"Jbanner": "ca-app-pub-4578347973710420/7062950221",
+      			"nativeAds": "ca-app-pub-4578347973710420/8184460202",
+      			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+      			" f_publisher_id": "ca-app-pub-3940256099942544",
+      			"FB_Banner": "1771817359647380_1771817402980709",
+      			"FB_Interstitial": "1771817359647380_1771817399647376",
+      			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      			"AdsType": " f",
+      			"ShowVideoAds": "0",
+      			"ActivitySwitch": "main",
+      			"URLtoLunch": "https://www.foxnews.com",
+      			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+      		}],
+          "Msnbc_zir":
+
+        		[{
+        			"Jinterstitial": "ca-app-pub-4578347973710420/2357418451",
+        			"Jbanner": "ca-app-pub-4578347973710420/3670500122",
+        			"nativeAds": "ca-app-pub-4578347973710420/8731255119",
+        			" f_app_id": "ca-app-pub-3940256099942544~3347511713",
+        			" f_publisher_id": "ca-app-pub-3940256099942544",
+        			"FB_Banner": "1771817359647380_1771817402980709",
+        			"FB_Interstitial": "1771817359647380_1771817399647376",
+        			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+        			"AdsType": " f",
+        			"ShowVideoAds": "0",
+        			"ActivitySwitch": "main",
+        			"URLtoLunch": "https://www.msnbc.com",
+        			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
+
+        		}]
 
 
 

@@ -688,6 +688,51 @@
       "ShowVideoAds": "0",
       "URLtoLunch": "https://onlyfans.com"
 
+    }],
+	 "buienradar_fes":
+
+    [{
+      "Jinterstitial": "ca-app-pub-2798856637420348/9924669860",
+      "Jbanner": "ca-app-pub-2798856637420348/2237751530",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://www.buienradar.nl"
+
+    }],
+	 "oldnavy_fes":
+
+    [{
+      "Jinterstitial": "ca-app-pub-2798856637420348/9896109073",
+      "Jbanner": "ca-app-pub-2798856637420348/3522272418",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://www.consumeraffairs.com/retail/old_navy.html"
+
+    }],
+	 "walmart_fes":
+
+    [{
+      "Jinterstitial": "ca-app-pub-2798856637420348/8639508354",
+      "Jbanner": "ca-app-pub-2798856637420348/9373364891",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://www.trustpilot.com/review/www.walmart.com"
+
     }]
 
 

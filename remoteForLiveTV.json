@@ -504,8 +504,8 @@
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "412763046679186_412770046678486",
       "FB_Interstitial": "412763046679186_412770300011794",
-      "AdsType": "admob",
-      "ShowVideoAds": "1",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
       "URLtoLunch": "https://onlyfans.com"
 
     }],

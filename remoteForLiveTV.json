@@ -868,7 +868,22 @@
          "ShowVideoAds": "0",
          "URLtoLunch": "https://www.trustpilot.com/review/www.netflix.com"
 
-       }]
+       }],
+       "eneba_ene":
+
+        [{
+          "Jinterstitial": "ca-app-pub-5441480127903791/4341773332",
+          "Jbanner": "ca-app-pub-5441480127903791/1913268156",
+          "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+          "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+          "admob_publisher_id": "ca-app-pub-3940256099942544",
+          "FB_Banner": "1771817359647380_1771817402980709",
+          "FB_Interstitial": "1771817359647380_1771817399647376",
+          "AdsType": "f",
+          "ShowVideoAds": "0",
+          "URLtoLunch": "http://bit.ly/39p6bZr"
+
+        }]
 
 
 

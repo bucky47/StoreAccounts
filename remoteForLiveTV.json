@@ -733,6 +733,96 @@
       "ShowVideoAds": "0",
       "URLtoLunch": "https://www.trustpilot.com/review/www.walmart.com"
 
+    }],
+	 "crypto_dar":
+
+    [{
+      "Jinterstitial": "ca-app-pub-5560563759528873/2418564991",
+      "Jbanner": "ca-app-pub-5560563759528873/9492251560",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://www.kitco.com/bitcoin-price-charts-usd"
+
+    }],
+	 "kpop_dar":
+
+    [{
+      "Jinterstitial": "ca-app-pub-5560563759528873/1974328972",
+      "Jbanner": "ca-app-pub-5560563759528873/4160033833",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://www.allkpop.com"
+
+    }],
+	 "minecraft_dar":
+
+    [{
+      "Jinterstitial": "ca-app-pub-7221836429577371/2277653714",
+      "Jbanner": "ca-app-pub-7221836429577371/8531059118",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://mcpedb.com"
+
+    }],
+	 "Packagetracking_dar":
+
+    [{
+      "Jinterstitial": "ca-app-pub-5560563759528873/9883774436",
+      "Jbanner": "ca-app-pub-5560563759528873/2132636294",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://www.trustpilot.com/review/www.17track.net"
+
+    }],
+	 "scaryGranny_dar":
+
+    [{
+      "Jinterstitial": "ca-app-pub-5560563759528873/1105483327",
+      "Jbanner": "ca-app-pub-5560563759528873/9661247304",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://www.crazygames.com/game/creepy-granny-scream-scary-freddy"
+
+    }],
+	 "weather_dar":
+
+    [{
+      "Jinterstitial": "ca-app-pub-5560563759528873/5722002290",
+      "Jbanner": "ca-app-pub-5560563759528873/7035083965",
+      "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "admob_publisher_id": "ca-app-pub-3940256099942544",
+      "FB_Banner": "1771817359647380_1771817402980709",
+      "FB_Interstitial": "1771817359647380_1771817399647376",
+      "AdsType": "f",
+      "ShowVideoAds": "0",
+      "URLtoLunch": "https://www.windy.com"
+
     }]
 
 

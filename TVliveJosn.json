@@ -208,10 +208,10 @@
     			"FB_Banner": "1771817359647380_1771817402980709",
     			"FB_Interstitial": "1771817359647380_1771817399647376",
     			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
-    			"AdsType": " f",
+    			"AdsType": " admob",
     			"ShowVideoAds": "0",
-    			"ActivitySwitch": "main",
-    			"URLtoLunch": "https://www.cricbuzz.com/cricket-news",
+    			"ActivitySwitch": "f",
+    			"URLtoLunch": "http://cnn.com",
     			"JtvURL": "https://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8"
 
     		}],
@@ -226,10 +226,10 @@
       			"FB_Banner": "1771817359647380_1771817402980709",
       			"FB_Interstitial": "1771817359647380_1771817399647376",
       			"FB_nativeAds": "ca-app-pub-3940256099942544/2247696110",
-      			"AdsType": " f",
+      			"AdsType": " admob",
       			"ShowVideoAds": "0",
       			"ActivitySwitch": "main",
-      			"URLtoLunch": "https://www.cricbuzz.com/cricket-news",
+      			"URLtoLunch": "https://www.foxnews.com",
       			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
 
       		}],

@@ -652,10 +652,10 @@
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
-      "FB_Banner": "1771817359647380_1771817402980709",
-      "FB_Interstitial": "1771817359647380_1771817399647376",
-      "AdsType": "admob",
-      "ShowVideoAds": "0",
+      "FB_Banner": "223326912796875_223326976130202",
+      "FB_Interstitial": "223326912796875_223326979463535",
+      "AdsType": "f",
+      "ShowVideoAds": "1",
       "URLtoLunch": "https://www.happymod.com/popular-mod.htmlhttps://www.happymod.com/popular-mod.html",
       "URLtoLunch2": "http://bit.ly/2MjxaNi"
 
@@ -668,12 +668,11 @@
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
-      "FB_Banner": "1771817359647380_1771817402980709",
-      "FB_Interstitial": "1771817359647380_1771817399647376",
-      "AdsType": "admob",
-      "ShowVideoAds": "0",
-      "URLtoLunch": "https://worldsapps.com/reviews-imposter-solo-kill",
-      "URLtoLunch2": "http://bit.ly/2NRHzQN"
+      "FB_Banner": "259329745747806_259330009081113",
+      "FB_Interstitial": "259329745747806_259330005747780",
+      "AdsType": "f",
+      "ShowVideoAds": "1",
+      "URLtoLunch": "http://bit.ly/2NRHzQN"
 
     }],
 	 "onlyfans_zir":
@@ -686,8 +685,8 @@
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "432256004784239_432256418117531",
       "FB_Interstitial": "432256004784239_432256804784159",
-      "AdsType": "admob",
-      "ShowVideoAds": "0",
+      "AdsType": "f",
+      "ShowVideoAds": "1",
       "URLtoLunch": "https://onlyfans.com"
 
     }],

@@ -758,9 +758,9 @@
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
-      "FB_Banner": "1771817359647380_1771817402980709",
-      "FB_Interstitial": "1771817359647380_1771817399647376",
-      "AdsType": "f",
+      "FB_Banner": "351855122471416_351855165804745",
+      "FB_Interstitial": "351855122471416_351855162471412",
+      "AdsType": "admob",
       "ShowVideoAds": "0",
       "URLtoLunch": "https://www.allkpop.com"
 
@@ -773,9 +773,9 @@
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
-      "FB_Banner": "1771817359647380_1771817402980709",
-      "FB_Interstitial": "1771817359647380_1771817399647376",
-      "AdsType": "f",
+      "FB_Banner": "258706652304887_258706692304883",
+      "FB_Interstitial": "258706652304887_258706688971550",
+      "AdsType": "admob",
       "ShowVideoAds": "0",
       "URLtoLunch": "https://mcpedb.com"
 
@@ -788,9 +788,9 @@
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
-      "FB_Banner": "1771817359647380_1771817402980709",
-      "FB_Interstitial": "1771817359647380_1771817399647376",
-      "AdsType": "f",
+      "FB_Banner": "460671338627012_460671378627008",
+      "FB_Interstitial": "460671338627012_460671385293674",
+      "AdsType": "admob",
       "ShowVideoAds": "0",
       "URLtoLunch": "https://www.trustpilot.com/review/www.17track.net"
 
@@ -803,9 +803,9 @@
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
-      "FB_Banner": "1771817359647380_1771817402980709",
-      "FB_Interstitial": "1771817359647380_1771817399647376",
-      "AdsType": "f",
+      "FB_Banner": "1159450477819150_1159450541152477",
+      "FB_Interstitial": "1159450477819150_1159450534485811",
+      "AdsType": "admob",
       "ShowVideoAds": "0",
       "URLtoLunch": "https://www.crazygames.com/game/creepy-granny-scream-scary-freddy"
 
@@ -820,7 +820,7 @@
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "1771817359647380_1771817402980709",
       "FB_Interstitial": "1771817359647380_1771817399647376",
-      "AdsType": "f",
+      "AdsType": "admob",
       "ShowVideoAds": "0",
       "URLtoLunch": "https://www.windy.com"
 
@@ -882,7 +882,7 @@
           "FB_Interstitial": "1771817359647380_1771817399647376",
           "AdsType": "f",
           "ShowVideoAds": "0",
-          "URLtoLunch": "http://bit.ly/39qWMk6"
+          "URLtoLunch": "http://bit.ly/39p6bZr"
 
         }]
 

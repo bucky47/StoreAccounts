@@ -647,8 +647,8 @@
 	 "happymod_zir":
 
     [{
-      "Jinterstitial": "ca-app-pub-4578347973710420/7394940951",
-      "Jbanner": "ca-app-pub-4578347973710420/6679806846",
+      "Jinterstitial": "ca-app-pub-8399342799683052/2357751590",
+      "Jbanner": "ca-app-pub-8399342799683052/5999475520",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
@@ -663,29 +663,29 @@
 	 "impostersolo_zir":
 
     [{
-      "Jinterstitial": "ca-app-pub-4578347973710420/2548990147",
-      "Jbanner": "ca-app-pub-4578347973710420/2996530949",
+      "Jinterstitial": "ca-app-pub-8399342799683052/5061798372",
+      "Jbanner": "ca-app-pub-8399342799683052/4712452192",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "259329745747806_259330009081113",
       "FB_Interstitial": "259329745747806_259330005747780",
-      "AdsType": "f",
-      "ShowVideoAds": "1",
+      "AdsType": "admob",
+      "ShowVideoAds": "0",
       "URLtoLunch": "http://bit.ly/2NRHzQN"
 
     }],
 	 "onlyfans_zir":
 
     [{
-      "Jinterstitial": "ca-app-pub-4578347973710420/7038242951",
-      "Jbanner": "ca-app-pub-4578347973710420/7226601754",
+      "Jinterstitial": "ca-app-pub-8399342799683052/9008782246",
+      "Jbanner": "ca-app-pub-8399342799683052/2283591795",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "432256004784239_432256418117531",
       "FB_Interstitial": "432256004784239_432256804784159",
-      "AdsType": "f",
+      "AdsType": "admob",
       "ShowVideoAds": "1",
       "URLtoLunch": "https://onlyfans.com"
 
@@ -753,14 +753,14 @@
 	 "kpop_dar":
 
     [{
-      "Jinterstitial": "ca-app-pub-5560563759528873/1974328972",
-      "Jbanner": "ca-app-pub-5560563759528873/4160033833",
+      "Jinterstitial": "ca-app-pub-8399342799683052/7846732059",
+      "Jbanner": "ca-app-pub-8399342799683052/6004819739",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "351855122471416_351855165804745",
       "FB_Interstitial": "351855122471416_351855162471412",
-      "AdsType": "admob",
+      "AdsType": "f",
       "ShowVideoAds": "0",
       "URLtoLunch": "https://www.allkpop.com"
 
@@ -768,14 +768,14 @@
 	 "minecraft_dar":
 
     [{
-      "Jinterstitial": "ca-app-pub-7221836429577371/2277653714",
-      "Jbanner": "ca-app-pub-7221836429577371/8531059118",
+      "Jinterstitial": "ca-app-pub-8399342799683052/5430104660",
+      "Jbanner": "ca-app-pub-8399342799683052/2246921012",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "258706652304887_258706692304883",
       "FB_Interstitial": "258706652304887_258706688971550",
-      "AdsType": "admob",
+      "AdsType": "f",
       "ShowVideoAds": "0",
       "URLtoLunch": "https://mcpedb.com"
 
@@ -783,30 +783,30 @@
 	 "Packagetracking_dar":
 
     [{
-      "Jinterstitial": "ca-app-pub-5560563759528873/9883774436",
-      "Jbanner": "ca-app-pub-5560563759528873/2132636294",
+      "Jinterstitial": "ca-app-pub-8399342799683052/6254448788",
+      "Jbanner": "ca-app-pub-8399342799683052/7759102146",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "460671338627012_460671378627008",
       "FB_Interstitial": "460671338627012_460671385293674",
       "AdsType": "admob",
-      "ShowVideoAds": "0",
+      "ShowVideoAds": "1",
       "URLtoLunch": "https://www.trustpilot.com/review/www.17track.net"
 
     }],
 	 "scaryGranny_dar":
 
     [{
-      "Jinterstitial": "ca-app-pub-5560563759528873/1105483327",
-      "Jbanner": "ca-app-pub-5560563759528873/9661247304",
+      "Jinterstitial": "ca-app-pub-8399342799683052/3217221905",
+      "Jbanner": "ca-app-pub-8399342799683052/1543363373",
       "nativeAds": "ca-app-pub-3940256099942544/2247696110",
       "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
       "admob_publisher_id": "ca-app-pub-3940256099942544",
       "FB_Banner": "1159450477819150_1159450541152477",
       "FB_Interstitial": "1159450477819150_1159450534485811",
       "AdsType": "admob",
-      "ShowVideoAds": "0",
+      "ShowVideoAds": "1",
       "URLtoLunch": "https://www.crazygames.com/game/creepy-granny-scream-scary-freddy"
 
     }],

@@ -250,7 +250,28 @@
         			"URLtoLunch": "https://www.msnbc.com",
         			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8"
 
-        		}]
+        		}],
+        "Msnbc_kolo":
+
+		[{
+			"Jinterstitial": "ca-app-pub-9264472389636853/4657779165",
+			"Jbanner": "ca-app-pub-9264472389636853/2223187514",
+			"nativeAds": "ca-app-pub-9264472389636853/7092370818",
+			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+			"admob_publisher_id": "ca-app-pub-3940256099942544",
+			"FB_Banner": "908403156653481_908403193320144",
+			"FB_Interstitial": "908403156653481_908403189986811",
+			"FB_nativeAds": "908403156653481_908403596653437",
+			"AdsType": "admob",
+			"ShowVideoAds": "0",
+			"ActivitySwitch": "main",
+			"URLtoLunch": "https://www.msnbc.com",
+			"JtvURL": "xqa",
+			"URL_Token": "https://streamfare.net/msnbc.html",
+			"Use_Token": "yes",
+			"URL_indice": ".m3u8"
+
+		}]
 
 
 

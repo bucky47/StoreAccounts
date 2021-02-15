@@ -263,10 +263,10 @@
 			"FB_Interstitial": "908403156653481_908403189986811",
 			"FB_nativeAds": "908403156653481_908403596653437",
 			"AdsType": "admob",
-			"ShowVideoAds": "0",
-			"ActivitySwitch": "main",
+			"ShowVideoAds": "1",
+			"ActivitySwitch": "f",
 			"URLtoLunch": "https://www.msnbc.com",
-			"JtvURL": "xqa",
+			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8",
 			"URL_Token": "https://streamfare.net/msnbc.html",
 			"Use_Token": "yes",
 			"URL_indice": ".m3u8"

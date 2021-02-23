@@ -265,8 +265,8 @@
 			"AdsType": "f",
 			"ShowVideoAds": "1",
 			"ActivitySwitch": "main",
-			"URLtoLunch": "https://www.livenewswatch.com/msnbc-news.html",
-			"JtvURL": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8",
+			"URLtoLunch": "http://www.watchnews.pro/wp-content/streamings/msnbcz.php?file=playlist.m3u8",
+			"JtvURL": "http://www.watchnews.pro/wp-content/streamings/msnbcz.php?file=playlist.m3u8",
 			"URL_Token": "https://streamfare.net/msnbc.html",
 			"Use_Token": "yes",
 			"URL_indice": ".m3u8"

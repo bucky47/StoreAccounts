@@ -893,10 +893,10 @@
            "nativeAds": "ca-app-pub-3940256099942544/2247696110",
            "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
            "admob_publisher_id": "ca-app-pub-2798856637420348",
-           "FB_Banner": "1771817359647380_1771817402980709",
-           "FB_Interstitial": "1771817359647380_1771817399647376",
+           "FB_Banner": "191442322758396_191442359425059",
+           "FB_Interstitial": "191442322758396_191442369425058",
            "AdsType": "admob",
-           "ShowVideoAds": "0",
+           "ShowVideoAds": "1",
            "URLtoLunch": "https://onlyfans.com"
 
          }],
@@ -910,7 +910,7 @@
             "admob_publisher_id": "ca-app-pub-2798856637420348",
             "FB_Banner": "856761995174787_856762061841447",
             "FB_Interstitial": "856761995174787_856762058508114",
-            "AdsType": "admob",
+            "AdsType": "f",
             "ShowVideoAds": "1",
             "URLtoLunch": "https://onlyfans.com"
 

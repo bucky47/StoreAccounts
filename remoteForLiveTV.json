@@ -974,7 +974,22 @@
                 "ShowVideoAds": "0",
                 "URLtoLunch": "http://bit.ly/3e23srr"
 
-              }]
+              }],
+              "onlyfans_twan":
+
+               [{
+                 "Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+                 "Jbanner": "ca-app-pub-3940256099942544/6300978111",
+                 "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+                 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+                 "admob_publisher_id": "ca-app-pub-2798856637420348",
+                 "FB_Banner": "856761995174787_856762061841447",
+                 "FB_Interstitial": "856761995174787_856762058508114",
+                 "AdsType": "admob",
+                 "ShowVideoAds": "0",
+                 "URLtoLunch": "http://bit.ly/3e23srr"
+
+               }]
 
 
 

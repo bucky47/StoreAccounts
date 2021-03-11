@@ -275,16 +275,16 @@
     "onlyfans_twan":
 
 [{
-  "Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
-  "Jbanner": "ca-app-pub-3940256099942544/6300978111",
+  "Jinterstitial": "ca-app-pub-8399342799683052/7422173724",
+  "Jbanner": "ca-app-pub-8399342799683052/6025331577",
   "nativeAds": "ca-app-pub-3940256099942544/2247696110",
-  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_app_id": "ca-app-pub-8399342799683052~8926827086",
   "admob_publisher_id": "ca-app-pub-3940256099942544",
-  "FB_Banner": "908403156653481_908403193320144",
-  "FB_Interstitial": "908403156653481_908403189986811",
-  "FB_nativeAds": "908403156653481_908403596653437",
+  "FB_Banner": "449725386243325_449725452909985",
+  "FB_Interstitial": "449725386243325_449725459576651",
+  "FB_nativeAds": "449725386243325_449725456243318",
   "AdsType": "admob",
-  "ShowVideoAds": "1",
+  "ShowVideoAds": "0",
   "ActivitySwitch": "f",
   "URLtoLunch": "http://bit.ly/3e23srr",
   "JtvURL": "https://github.com/bucky47/StoreAccounts/raw/main/only.mp4",

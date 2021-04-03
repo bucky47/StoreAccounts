@@ -254,15 +254,15 @@
         "Msnbc_kolo":
 
 		[{
-			"Jinterstitial": "ca-app-pub-7382591002992396/6523038915",
-			"Jbanner": "ca-app-pub-7382591002992396/1462283928",
-			"nativeAds": "ca-app-pub-7382591002992396/2583793908",
+			"Jinterstitial": "ca-app-pub-3719573606081817/7917835465",
+			"Jbanner": "ca-app-pub-3719573606081817/7255506391",
+			"nativeAds": "ca-app-pub-3719573606081817/5169410863",
 			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 			"admob_publisher_id": "ca-app-pub-3940256099942544",
 			"FB_Banner": "908403156653481_908403193320144",
 			"FB_Interstitial": "908403156653481_908403189986811",
 			"FB_nativeAds": "908403156653481_908403596653437",
-			"AdsType": "f",
+			"AdsType": "admob",
 			"ShowVideoAds": "1",
 			"ActivitySwitch": "f",
 			"URLtoLunch": "http://www.watchnews.pro/wp-content/streamings/msnbcz.php?file=playlist.m3u8",

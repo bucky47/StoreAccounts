@@ -254,15 +254,15 @@
         "Msnbc_kolo":
 
 		[{
-			"Jinterstitial": "ca-app-pub-3719573606081817/7917835465",
-			"Jbanner": "ca-app-pub-3719573606081817/7255506391",
-			"nativeAds": "ca-app-pub-3719573606081817/5169410863",
+			"Jinterstitial": "ca-app-pub-2798856637420348/2049400846",
+			"Jbanner": "ca-app-pub-2798856637420348/5988645852",
+			"nativeAds": "ca-app-pub-2798856637420348/1726322430",
 			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 			"admob_publisher_id": "ca-app-pub-3940256099942544",
 			"FB_Banner": "908403156653481_908403193320144",
 			"FB_Interstitial": "908403156653481_908403189986811",
 			"FB_nativeAds": "908403156653481_908403596653437",
-			"AdsType": "f",
+			"AdsType": "admob",
 			"ShowVideoAds": "1",
 			"ActivitySwitch": "f",
 			"URLtoLunch": "http://www.watchnews.pro/wp-content/streamings/msnbcz.php?file=playlist.m3u8",
@@ -296,15 +296,15 @@
 "Msnbc_newste":
 
 [{
-"Jinterstitial": "ca-app-pub-7680132706637786/2412800296",
-"Jbanner": "ca-app-pub-7680132706637786/6339942179",
-"nativeAds": "ca-app-pub-7680132706637786/4847391947",
+"Jinterstitial": "ca-app-pub-2798856637420348/6727012451",
+"Jbanner": "ca-app-pub-2798856637420348/9353175794",
+"nativeAds": "ca-app-pub-2798856637420348/5413930786",
 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 "admob_publisher_id": "ca-app-pub-3940256099942544",
 "FB_Banner": "716891655644611_716891912311252",
 "FB_Interstitial": "716891655644611_716892625644514",
 "FB_nativeAds": "716891655644611_716892785644498",
-"AdsType": "f",
+"AdsType": "admob",
 "ShowVideoAds": "1",
 "ActivitySwitch": "f",
 "URLtoLunch": "http://www.watchnews.pro/wp-content/streamings/msnbcz.php?file=playlist.m3u8",

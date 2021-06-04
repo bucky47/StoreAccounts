@@ -254,16 +254,16 @@
         "Msnbc_kolo":
 
 		[{
-			"Jinterstitial": "ca-app-pub-2798856637420348/2049400846",
-			"Jbanner": "ca-app-pub-2798856637420348/5988645852",
-			"nativeAds": "ca-app-pub-2798856637420348/1726322430",
+			"Jinterstitial": "ca-app-pub-8399342799683052/5513769021",
+			"Jbanner": "ca-app-pub-8399342799683052/1627522576",
+			"nativeAds": "ca-app-pub-8399342799683052/2640193678",
 			"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 			"admob_publisher_id": "ca-app-pub-3940256099942544",
 			"FB_Banner": "908403156653481_908403193320144",
 			"FB_Interstitial": "908403156653481_908403189986811",
 			"FB_nativeAds": "908403156653481_908403596653437",
-			"AdsType": "f",
-			"ShowVideoAds": "0",
+			"AdsType": "admob",
+			"ShowVideoAds": "1",
 			"ActivitySwitch": "f",
 			"URLtoLunch": "http://www.watchnews.pro/wp-content/streamings/msnbcz.php?file=playlist.m3u8",
 			"JtvURL": "http://skylogic.site:8080/esterichannel50con/36cb6c13/406",

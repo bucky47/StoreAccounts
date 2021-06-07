@@ -376,6 +376,27 @@
 "Use_Token": "yes",
 "URL_indice": "/mono.m3u8"
 
+}],
+"cbsn_AklamiNews":
+
+[{
+"Jinterstitial": "ca-app-pub-8399342799683052/4028379693",
+"Jbanner": "ca-app-pub-8399342799683052/6654543031",
+"nativeAds": "ca-app-pub-8399342799683052/7776053016",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-3940256099942544",
+"FB_Banner": "4034592399988565_4034592493321889",
+"FB_Interstitial": "4034592399988565_4034592479988557",
+"FB_nativeAds": "4034592399988565_4034592489988556",
+"AdsType": "admob",
+"ShowVideoAds": "0",
+"ActivitySwitch": "f",
+"URLtoLunch": "https://live.vevonova.com/shityapps/cbsn/",
+"JtvURL": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
+"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
+"Use_Token": "no",
+"URL_indice": "/mono.m3u8"
+
 }]
 
 

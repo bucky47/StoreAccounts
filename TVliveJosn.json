@@ -398,30 +398,30 @@
 "URL_indice": "/mono.m3u8"
 
 }],
-"nextapp":
+"cnbc_beroq":
 
 [{
-"Jinterstitial": "ca-app-pub-8399342799683052/4028379693",
+"Jinterstitial": "ca-app-pub-8399342799683052/7392909635",
 "Jinterstitial2": "ca-app-pub-8399342799683052/4028379693",
 "Jinterstitial3": "ca-app-pub-8399342799683052/4028379693",
 "Jinterstitial4": "ca-app-pub-8399342799683052/4028379693",
 "Jinterstitial5": "ca-app-pub-8399342799683052/4028379693",
-"Jbanner": "ca-app-pub-8399342799683052/6654543031",
-"nativeAds": "ca-app-pub-8399342799683052/7776053016",
+"Jbanner": "ca-app-pub-8399342799683052/8705991302",
+"nativeAds": "ca-app-pub-8399342799683052/6079827962",
 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 "admob_publisher_id": "ca-app-pub-3940256099942544",
-"FB_Banner": "4034592399988565_4034592493321889",
-"FB_Interstitial": "4034592399988565_4034592479988557",
+"FB_Banner": "844746666133118_844746712799780",
+"FB_Interstitial": "844746666133118_844746702799781",
 "FB_Interstitial2": "4034592399988565_4034592479988557",
 "FB_Interstitial3": "4034592399988565_4034592479988557",
 "FB_Interstitial4": "4034592399988565_4034592479988557",
 "FB_Interstitial5": "4034592399988565_4034592479988557",
-"FB_nativeAds": "4034592399988565_4034592489988556",
+"FB_nativeAds": "844746666133118_844746706133114",
 "AdsType": "admob",
 "RotateAds": "no",
 "ShowVideoAds": "0",
 "ActivitySwitch": "main",
-"URLtoLunch": "https://live.vevonova.com/shityapps/cbsn/",
+"URLtoLunch": "https://live.vevonova.com/shityapps/cnbc/",
 "JtvURL": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
 "URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
 "Use_Token": "no",

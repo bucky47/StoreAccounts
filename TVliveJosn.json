@@ -450,7 +450,7 @@
 "AdsType": "admob",
 "RotateAds": "no",
 "ShowVideoAds": "0",
-"ActivitySwitch": "f",
+"ActivitySwitch": "main",
 "URLtoLunch": "https://live.vevonova.com/shityapps/cnn/",
 "JtvURL": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
 "URL_Token": "https://live.vevonova.com/shityapps/msnbc/",

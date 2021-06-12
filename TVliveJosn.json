@@ -632,8 +632,8 @@
 "ShowVideoAds": "0",
 "ActivitySwitch": "main",
 "URLtoLunch": "https://live.vevonova.com/shityapps/fox_business/",
-"JtvURL": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
-"URL_Token": "https://www.watchnews.pro/wp-content/streamings/foxbusz.php?file=playlist.m3u8",
+"JtvURL": "https://www.livenewsnow.com/business/fox-business-network-fbn.html",
+"URL_Token": "https://www.livenewsnow.com/business/fox-business-network-fbn.html",
 "Use_Token": "yes",
 "URL_indice": "/mono.m3u8"
 

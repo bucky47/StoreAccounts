@@ -517,6 +517,156 @@
 "Use_Token": "no",
 "URL_indice": "/mono.m3u8"
 
+}],
+"fox_sports_AviaNews":
+
+[{
+"Jinterstitial": "ca-app-pub-8399342799683052/8870461071",
+"Jinterstitial2": "number2",
+"Jinterstitial3": "number3",
+"Jinterstitial4": "number4",
+"Jinterstitial5": "number5",
+"Jbanner": "ca-app-pub-8399342799683052/5226729530",
+"nativeAds": "ca-app-pub-8399342799683052/6372290244",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-3940256099942544",
+"FB_Banner": "4034592399988565_4034592493321889",
+"FB_Interstitial": "4034592399988565_4034592479988557",
+"FB_Interstitial2": "4034592399988565_4034592479988557",
+"FB_Interstitial3": "4034592399988565_4034592479988557",
+"FB_Interstitial4": "4034592399988565_4034592479988557",
+"FB_Interstitial5": "4034592399988565_4034592479988557",
+"FB_nativeAds": "4034592399988565_4034592489988556",
+"AdsType": "admob",
+"RotateAds": "no",
+"ShowVideoAds": "0",
+"ActivitySwitch": "main",
+"URLtoLunch": "https://live.vevonova.com/shityapps/fox_sports/",
+"JtvURL": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
+"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
+"Use_Token": "no",
+"URL_indice": "/mono.m3u8"
+
+}],
+"pbs_newshour_OctaviaNews":
+
+[{
+"Jinterstitial": "ca-app-pub-3940256099942s544/1033173712",
+"Jinterstitial2": "number2",
+"Jinterstitial3": "number3",
+"Jinterstitial4": "number4",
+"Jinterstitial5": "number5",
+"Jbanner": "ca-app-pub-394025609994s2544/6300978111",
+"nativeAds": "ca-app-pub-3940256099942s544/2793859312",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-3940256099942544",
+"FB_Banner": "4034592399988565_4034592493321889",
+"FB_Interstitial": "4034592399988565_4034592479988557",
+"FB_Interstitial2": "4034592399988565_4034592479988557",
+"FB_Interstitial3": "4034592399988565_4034592479988557",
+"FB_Interstitial4": "4034592399988565_4034592479988557",
+"FB_Interstitial5": "4034592399988565_4034592479988557",
+"FB_nativeAds": "4034592399988565_4034592489988556",
+"AdsType": "admob",
+"RotateAds": "no",
+"ShowVideoAds": "0",
+"ActivitySwitch": "main",
+"URLtoLunch": "https://live.vevonova.com/shityapps/pbs_newshour/",
+"JtvURL": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8",
+"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
+"Use_Token": "no",
+"URL_indice": "/mono.m3u8"
+
+}],
+"australian_abc_news":
+
+[{
+"Jinterstitial": "ca-app-pub-8399342799683052/2873890755",
+"Jinterstitial2": "number2",
+"Jinterstitial3": "number3",
+"Jinterstitial4": "number4",
+"Jinterstitial5": "number5",
+"Jbanner": "ca-app-pub-8399342799683052/7612401483",
+"nativeAds": "ca-app-pub-8399342799683052/2360074803",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-3940256099942544",
+"FB_Banner": "4034592399988565_4034592493321889",
+"FB_Interstitial": "4034592399988565_4034592479988557",
+"FB_Interstitial2": "4034592399988565_4034592479988557",
+"FB_Interstitial3": "4034592399988565_4034592479988557",
+"FB_Interstitial4": "4034592399988565_4034592479988557",
+"FB_Interstitial5": "4034592399988565_4034592479988557",
+"FB_nativeAds": "4034592399988565_4034592489988556",
+"AdsType": "admob",
+"RotateAds": "no",
+"ShowVideoAds": "0",
+"ActivitySwitch": "main",
+"URLtoLunch": "https://live.vevonova.com/shityapps/australian_abcnews/",
+"JtvURL": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
+"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
+"Use_Token": "no",
+"URL_indice": "/mono.m3u8"
+
+}],
+"fox_business":
+
+[{
+"Jinterstitial": "ca-app-pub-8399342799683052/7074163679",
+"Jinterstitial2": "number2",
+"Jinterstitial3": "number3",
+"Jinterstitial4": "number4",
+"Jinterstitial5": "number5",
+"Jbanner": "ca-app-pub-8399342799683052/1529019495",
+"nativeAds": "ca-app-pub-8399342799683052/6589774482",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-3940256099942544",
+"FB_Banner": "4034592399988565_4034592493321889",
+"FB_Interstitial": "4034592399988565_4034592479988557",
+"FB_Interstitial2": "4034592399988565_4034592479988557",
+"FB_Interstitial3": "4034592399988565_4034592479988557",
+"FB_Interstitial4": "4034592399988565_4034592479988557",
+"FB_Interstitial5": "4034592399988565_4034592479988557",
+"FB_nativeAds": "4034592399988565_4034592489988556",
+"AdsType": "admob",
+"RotateAds": "no",
+"ShowVideoAds": "0",
+"ActivitySwitch": "main",
+"URLtoLunch": "https://live.vevonova.com/shityapps/fox_business/",
+"JtvURL": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
+"URL_Token": "https://www.watchnews.pro/wp-content/streamings/foxbusz.php?file=playlist.m3u8",
+"Use_Token": "yes",
+"URL_indice": "/mono.m3u8"
+
+}],
+"pbs_kids":
+
+[{
+"Jinterstitial": "ca-app-pub-8399342799683052/5192932333",
+"Jinterstitial2": "number2",
+"Jinterstitial3": "number3",
+"Jinterstitial4": "number4",
+"Jinterstitial5": "number5",
+"Jbanner": "ca-app-pub-8399342799683052/9132177344",
+"nativeAds": "ca-app-pub-8399342799683052/1253687323",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-3940256099942544",
+"FB_Banner": "4034592399988565_4034592493321889",
+"FB_Interstitial": "4034592399988565_4034592479988557",
+"FB_Interstitial2": "4034592399988565_4034592479988557",
+"FB_Interstitial3": "4034592399988565_4034592479988557",
+"FB_Interstitial4": "4034592399988565_4034592479988557",
+"FB_Interstitial5": "4034592399988565_4034592479988557",
+"FB_nativeAds": "4034592399988565_4034592489988556",
+"AdsType": "admob",
+"RotateAds": "no",
+"ShowVideoAds": "0",
+"ActivitySwitch": "main",
+"URLtoLunch": "https://live.vevonova.com/shityapps/pbs_kids/",
+"JtvURL": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+"URL_Token": "https://www.watchnews.pro/wp-content/streamings/foxbusz.php?file=playlist.m3u8",
+"Use_Token": "no",
+"URL_indice": "/mono.m3u8"
+
 }]
 
 

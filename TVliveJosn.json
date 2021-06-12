@@ -423,8 +423,8 @@
 "ActivitySwitch": "main",
 "URLtoLunch": "https://live.vevonova.com/shityapps/cnbc/",
 "JtvURL": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
-"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
-"Use_Token": "no",
+"URL_Token": "https://www.livenewsnow.com/american/cnbc-america.html",
+"Use_Token": "yes",
 "URL_indice": "/mono.m3u8"
 
 }],

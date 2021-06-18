@@ -447,7 +447,7 @@
 "FB_Interstitial4": "4034592399988565_4034592479988557",
 "FB_Interstitial5": "4034592399988565_4034592479988557",
 "FB_nativeAds": "448800453169756_448800519836416",
-"AdsType": "f",
+"AdsType": "admob",
 "RotateAds": "no",
 "ShowVideoAds": "1",
 "ActivitySwitch": "f",

@@ -401,13 +401,13 @@
 "cnbc_beroq":
 
 [{
-"Jinterstitial": "ca-app-pub-2798856637420348/5717958169",
+"Jinterstitial": "ca-app-pub-7876665967385272/9369136983",
 "Jinterstitial2": "ca-app-pub-8399342799683052/4028379693",
 "Jinterstitial3": "ca-app-pub-8399342799683052/4028379693",
 "Jinterstitial4": "ca-app-pub-8399342799683052/4028379693",
 "Jinterstitial5": "ca-app-pub-8399342799683052/4028379693",
-"Jbanner": "ca-app-pub-2798856637420348/7031039835",
-"nativeAds": "ca-app-pub-2798856637420348/4404876497",
+"Jbanner": "ca-app-pub-7876665967385272/1682218659",
+"nativeAds": "ca-app-pub-7876665967385272/6742973646",
 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 "admob_publisher_id": "pub-8399342799683052",
 "FB_Banner": "844746666133118_844746712799780",
@@ -419,7 +419,7 @@
 "FB_nativeAds": "844746666133118_844746706133114",
 "AdsType": "admob",
 "RotateAds": "no",
-"ShowVideoAds": "1",
+"ShowVideoAds": "0",
 "ActivitySwitch": "f",
 "URLtoLunch": "https://live.vevonova.com/shityapps/cnbc/",
 "JtvURL": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
@@ -431,13 +431,13 @@
 "cnn_fermal":
 
 [{
-"Jinterstitial": "ca-app-pub-2798856637420348/9530685443",
+"Jinterstitial": "ca-app-pub-7876665967385272/8822342074",
 "Jinterstitial2": "ca-app-pub-8399342799683052/4028379693",
 "Jinterstitial3": "ca-app-pub-8399342799683052/4028379693",
 "Jinterstitial4": "ca-app-pub-8399342799683052/4028379693",
 "Jinterstitial5": "ca-app-pub-8399342799683052/4028379693",
-"Jbanner": "ca-app-pub-2798856637420348/4469930455",
-"nativeAds": "ca-app-pub-2798856637420348/5591440435",
+"Jbanner": "ca-app-pub-7876665967385272/7700832091",
+"nativeAds": "ca-app-pub-7876665967385272/4883097068",
 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 "admob_publisher_id": "pub-8399342799683052",
 "FB_Banner": "448800453169756_448800529836415",
@@ -449,7 +449,7 @@
 "FB_nativeAds": "448800453169756_448800519836416",
 "AdsType": "admob",
 "RotateAds": "no",
-"ShowVideoAds": "1",
+"ShowVideoAds": "0",
 "ActivitySwitch": "f",
 "URLtoLunch": "https://live.vevonova.com/shityapps/cnn/",
 "JtvURL": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
@@ -581,13 +581,13 @@
 "australian_abc_news":
 
 [{
-"Jinterstitial": "ca-app-pub-2798856637420348/1993856647",
+"Jinterstitial": "ca-app-pub-7876665967385272/3872912505",
 "Jinterstitial2": "number2",
 "Jinterstitial3": "number3",
 "Jinterstitial4": "number4",
 "Jinterstitial5": "number5",
-"Jbanner": "ca-app-pub-2798856637420348/3169538641",
-"nativeAds": "ca-app-pub-2798856637420348/7395476695",
+"Jbanner": "ca-app-pub-7876665967385272/8587657913",
+"nativeAds": "ca-app-pub-7876665967385272/8396086229",
 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 "admob_publisher_id": "pub-8399342799683052",
 "FB_Banner": "496615518339438_496615561672767",
@@ -599,7 +599,7 @@
 "FB_nativeAds": "496615518339438_496615558339434",
 "AdsType": "admob",
 "RotateAds": "no",
-"ShowVideoAds": "1",
+"ShowVideoAds": "0",
 "ActivitySwitch": "f",
 "URLtoLunch": "https://live.vevonova.com/shityapps/australian_abcnews/",
 "JtvURL": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",

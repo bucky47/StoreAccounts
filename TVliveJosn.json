@@ -735,6 +735,40 @@
 "Use_Token": "no",
 "URL_indice": "/mono.m3u8"
 
+}],
+"cnn_rokkr":
+
+[{
+"Jinterstitial": "ca-app-pub-2798856637420348/30678139s01",
+"Jinterstitial2": "number2",
+"Jinterstitial3": "number3",
+"Jinterstitial4": "number4",
+"Jinterstitial5": "number5",
+"Jbanner": "ca-app-pub-2798856637420348/569397724s0",
+"nativeAds": "ca-app-pub-2798856637420348/39126786s37",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-3940256099942544",
+"FB_Banner": "4034592399988565_4034592493321889",
+"FB_Interstitial": "4034592399988565_4034592479988557",
+"FB_Interstitial2": "4034592399988565_4034592479988557",
+"FB_Interstitial3": "4034592399988565_4034592479988557",
+"FB_Interstitial4": "4034592399988565_4034592479988557",
+"FB_Interstitial5": "4034592399988565_4034592479988557",
+"FB_nativeAds": "4034592399988565_4034592489988556",
+"Mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+"Mopub_interstitial": "24534e1901884e398f1253216226017e",
+"Mopub_native": "11a17b188668469fb0412708c3d16813",
+"Mopub_Appid": "11a17b188668469fb0412708c3d16813",
+"AdsType": "admob",
+"RotateAds": "no",
+"ShowVideoAds": "0",
+"ActivitySwitch": "main",
+"URLtoLunch": "https://live.vevonova.com/shityapps/cnn/",
+"JtvURL": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
+"URL_Token": "https://www.livenewsnow.com/american/cnn-live.html",
+"Use_Token": "yes",
+"URL_indice": "/mono.m3u8"
+
 }]
 
 

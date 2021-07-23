@@ -739,13 +739,13 @@
 "cnn_rokkr":
 
 [{
-"Jinterstitial": "ca-app-pub-7876665967385272/5986217753",
+"Jinterstitial": "ca-app-pub-1546084811983886/1052227917",
 "Jinterstitial2": "number2",
 "Jinterstitial3": "number3",
 "Jinterstitial4": "number4",
 "Jinterstitial5": "number5",
-"Jbanner": "ca-app-pub-7876665967385272/7299299423",
-"nativeAds": "ca-app-pub-7876665967385272/4673136086",
+"Jbanner": "ca-app-pub-1546084811983886/8770935837",
+"nativeAds": "ca-app-pub-1546084811983886/3052254036",
 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 "admob_publisher_id": "ca-app-pub-3940256099942544",
 "FB_Banner": "4034592399988565_4034592493321889",
@@ -761,8 +761,8 @@
 "Mopub_Appid": "11a17b188668469fb0412708c3d16813",
 "AdsType": "admob",
 "RotateAds": "no",
-"ShowVideoAds": "0",
-"ActivitySwitch": "main",
+"ShowVideoAds": "1",
+"ActivitySwitch": "f",
 "URLtoLunch": "https://live.vevonova.com/shityapps/cnn/",
 "JtvURL": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
 "URL_Token": "https://www.livenewsnow.com/american/cnn-live.html",

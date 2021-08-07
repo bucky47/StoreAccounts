@@ -807,14 +807,14 @@
 "foxnews_Bishopca":
 
 [{
-"Jinterstitial": "ca-app-pub-2798856637420348/229634463s3",
+"Jinterstitial": "ca-app-pub-1546084811983886/3733013955",
 "Jinterstitial2": "number2",
 "Jinterstitial3": "number3",
 "Jinterstitial4": "number4",
 "Jinterstitial5": "number5",
-"Jbanner": "ca-app-pub-2798856637420348/565230156s8",
-"nativeAds": "ca-app-pub-2798856637420348/867018129s7",
-"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"Jbanner": "ca-app-pub-1546084811983886/5465253246",
+"nativeAds": "ca-app-pub-1546084811983886/2419932285",
+"admob_app_id": "ca-app-pub-1546084811983886~1928977699",
 "admob_publisher_id": "ca-app-pub-3940256099942544",
 "FB_Banner": "4034592399988565_4034592493321889",
 "FB_Interstitial": "4034592399988565_4034592479988557",
@@ -830,7 +830,7 @@
 "AdsType": "admob",
 "RotateAds": "no",
 "ShowVideoAds": "0",
-"ActivitySwitch": "f",
+"ActivitySwitch": "main",
 "URLtoLunch": "https://bit.ly/3dY4017",
 "JtvURL": "https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8",
 "URL_Token": "https://live.vevonova.com/shityapps/foxnews/",

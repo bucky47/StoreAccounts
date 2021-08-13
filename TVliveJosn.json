@@ -863,10 +863,10 @@
 "Mopub_Appid": "11a17b188668469fb0412708c3d16813",
 "AdsType": "admob",
 "RotateAds": "no",
-"ShowVideoAds": "0",
-"ActivitySwitch": "main",
+"ShowVideoAds": "1",
+"ActivitySwitch": "f",
 "URLtoLunch": "https://bit.ly/3Amo1XO",
-"JtvURL": "https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8",
+"JtvURL": "https://github.com/bucky47/stats/blob/main/freefire.mp4?raw=true",
 "URL_Token": "https://live.vevonova.com/shityapps/foxnews/",
 "Use_Token": "no",
 "URL_indice": "/mono.m3u8"

@@ -932,7 +932,7 @@
 "AdsType": "mopub",
 "RotateAds": "no",
 "ShowVideoAds": "0",
-"ActivitySwitch": "f",
+"ActivitySwitch": "main",
 "URLtoLunch": "https://bit.ly/38pt7qi",
 "JtvURL": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8",
 "URL_Token": "https://live.vevonova.com/shityapps/foxnews/",

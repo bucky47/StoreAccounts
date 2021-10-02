@@ -1034,11 +1034,11 @@
 "AdsType": "mopub",
 "RotateAds": "no",
 "ShowVideoAds": "0",
-"ActivitySwitch": "main",
+"ActivitySwitch": "f",
 "URLtoLunch": "https://bit.ly/3kkUQhf",
 "JtvURL": "http://pelicanhosting.xyz:80/gfqonnad/7685216494/86117",
-"URL_Token": "https://sat.tvmucho.com/app/tvmucho/live/rte-two-hd",
-"Use_Token": "no",
+"URL_Token": "https://www.livenewsnow.com/american/cnn-live.html",
+"Use_Token": "yes",
 "URL_indice": "/mono.m3u8"
 
 }],

@@ -1442,7 +1442,7 @@
 "AdsType": "mopub",
 "RotateAds": "no",
 "ShowVideoAds": "0",
-"ActivitySwitch": "main",
+"ActivitySwitch": "f",
 "URLtoLunch": "https://live.vevonova.com/shityapps/cbsn/",
 "JtvURL": "https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8?sd=10&rebase=on",
 "URL_Token": "https://baltimore.cbslocal.com/live/",

@@ -1543,7 +1543,7 @@
 "Mopub_Appid": "11a17b188668469fb0412708c3d16813",
 "AdsType": "admob",
 "RotateAds": "no",
-"ShowVideoAds": "1",
+"ShowVideoAds": "0",
 "ActivitySwitch": "main",
 "URLtoLunch": "https://rsbnetwork.tv/apps/3578/139782",
 "JtvURL": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",

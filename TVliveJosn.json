@@ -1453,13 +1453,13 @@
 "Msnbc_Farfar":
 
 [{
-"Jinterstitial": "ca-app-pub-5441480127903791/8169106507",
+"Jinterstitial": "ca-app-pub-1546084811983886/2808155886",
 "Jinterstitial2": "number2",
 "Jinterstitial3": "number3",
 "Jinterstitial4": "number4",
 "Jinterstitial5": "number5",
-"Jbanner": "ca-app-pub-5441480127903791/8527843931",
-"nativeAds": "ca-app-pub-5441480127903791/4229861498",
+"Jbanner": "ca-app-pub-1546084811983886/4121237557",
+"nativeAds": "ca-app-pub-1546084811983886/7868910877",
 "admob_app_id": "ca-app-pub-5441480127903791~7812500393",
 "admob_publisher_id": "ca-app-pub-3940256099942544",
 "FB_Banner": "4034592399988565_4034592493321889",
@@ -1473,9 +1473,9 @@
 "Mopub_interstitial": "24534e1901884e398f1253216226017e",
 "Mopub_native": "11a17b188668469fb0412708c3d16813",
 "Mopub_Appid": "11a17b188668469fb0412708c3d16813",
-"AdsType": "mopub",
+"AdsType": "admob",
 "RotateAds": "no",
-"ShowVideoAds": "0",
+"ShowVideoAds": "1",
 "ActivitySwitch": "f",
 "URLtoLunch": "https://live.vevonova.com/shityapps/cnbc/",
 "JtvURL": "http://skylogic.site:8080/esterichannel50con/36cb6c13/406",

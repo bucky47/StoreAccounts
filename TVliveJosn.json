@@ -1624,13 +1624,13 @@
 "Msnbc_ironsource_test":
 
 [{
-"Jinterstitial": "ca-app-pub-1546084811983886/2400229258",
+"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
 "Jinterstitial2": "number2",
 "Jinterstitial3": "number3",
 "Jinterstitial4": "number4",
 "Jinterstitial5": "number5",
-"Jbanner": "ca-app-pub-1546084811983886/9919626620",
-"nativeAds": "ca-app-pub-1546084811983886/3354218278",
+"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+"nativeAds": "ca-app-pub-3940256099942544/2247696110",
 "admob_app_id": "ca-app-pub-5441480127903791~7812500393",
 "admob_publisher_id": "ca-app-pub-3940256099942544",
 "FB_Banner": "4034592399988565_4034592493321889",
@@ -1644,7 +1644,7 @@
 "Mopub_interstitial": "24534e1901884e398f1253216226017e",
 "Mopub_native": "11a17b188668469fb0412708c3d16813",
 "Mopub_Appid": "11a17b188668469fb0412708c3d16813",
-"AdsType": "ironsource",
+"AdsType": "admob",
 "RotateAds": "no",
 "ShowVideoAds": "1",
 "ActivitySwitch": "f",

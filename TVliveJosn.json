@@ -267,7 +267,7 @@
 			"ActivitySwitch": "f",
 			"URLtoLunch": "https://ligma.cdn.livenewschat.eu/hls/msnbc_live/index.m3u8",
 			"JtvURL": "http://skylogic.site:8080/esterichannel50con/36cb6c13/406",
-			"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
+			"URL_Token": "",
 			"Use_Token": "yes",
 			"URL_indice": "/mono.m3u8"
 
@@ -372,7 +372,7 @@
 "ActivitySwitch": "f",
 "URLtoLunch": "https://bit.ly/3tVNvrv",
 "JtvURL": "http://skylogic.site:8080/esterichannel50con/36cb6c13/406",
-"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
+"URL_Token": "",
 "Use_Token": "yes",
 "URL_indice": "/mono.m3u8"
 
@@ -1479,7 +1479,7 @@
 "ActivitySwitch": "f",
 "URLtoLunch": "https://live.vevonova.com/shityapps/cnbc/",
 "JtvURL": "http://skylogic.site:8080/esterichannel50con/36cb6c13/406",
-"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
+"URL_Token": "",
 "Use_Token": "yes",
 "URL_indice": "/mono.m3u8"
 

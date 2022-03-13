@@ -296,7 +296,7 @@
 "Msnbc_newste":
 
 [{
-"Jinterstitial": "ca-app-pub-8399z342799683052/5649500394",
+"Jinterstitial": "ca-app-pub-8399342799683052/5649500394",
 "Jbanner": "ca-app-pub-8399ss342799683052/1901827074",
 "nativeAds": "ca-app-pub-8399342799683052/3023337051",
 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
@@ -306,9 +306,9 @@
 "FB_nativeAds": "716891655644611_716892785644498",
 "AdsType": "f",
 "ShowVideoAds": "1",
-"ActivitySwitch": "main",
-"URLtoLunch": "http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/103943",
-"JtvURL": "http://rb-group-server.com:25461/d0lbj5p2/qm98n9c0/103943",
+"ActivitySwitch": "f",
+"URLtoLunch": "http://www.watchnews.pro/wp-content/streamings/msnbcz.php?file=playlist.m3u8",
+"JtvURL": "http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/137428",
 "URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
 "Use_Token": "no",
 "URL_indice": "/mono.m3u8"

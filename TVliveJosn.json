@@ -309,9 +309,9 @@
 "ActivitySwitch": "f",
 "URLtoLunch": "http://www.watchnews.pro/wp-content/streamings/msnbcz.php?file=playlist.m3u8",
 "JtvURL": "http://120322.1222908.net:2086/9CdGgD6vni/lFybJms788/323319",
-"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
-"Use_Token": "no",
-"URL_indice": "/mono.m3u8"
+"URL_Token": "https://planetnews.com/live/politics.html",
+"Use_Token": "yes",
+"URL_indice": "/index.m3u8"
 
 }],
 "Msnbc_fiverr":
@@ -1581,9 +1581,9 @@
 "ActivitySwitch": "f",
 "URLtoLunch": "https://live.vevonova.com/shityapps/cnbc/",
 "JtvURL": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596",
-"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
-"Use_Token": "no",
-"URL_indice": "/mono.m3u8"
+"URL_Token": "https://planetnews.com/live/politics.html",
+"Use_Token": "yes",
+"URL_indice": "/index.m3u8"
 
 }],
 "Msnbc_waga_corp":
@@ -1615,9 +1615,9 @@
 "ActivitySwitch": "f",
 "URLtoLunch": "https://live.vevonova.com/shityapps/cnbc/",
 "JtvURL": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596",
-"URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
-"Use_Token": "no",
-"URL_indice": "/mono.m3u8"
+"URL_Token": "https://planetnews.com/live/politics.html",
+"Use_Token": "yes",
+"URL_indice": "/index.m3u8"
 
 
 }],

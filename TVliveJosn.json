@@ -310,7 +310,7 @@
 "URLtoLunch": "http://www.watchnews.pro/wp-content/streamings/msnbcz.php?file=playlist.m3u8",
 "JtvURL": "http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137428",
 "URL_Token": "https://planetnews.com/live/politics.html",
-"Use_Token": "no",
+"Use_Token": "yes",
 "URL_indice": "/index.m3u8"
 
 }],

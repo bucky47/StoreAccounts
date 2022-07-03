@@ -311,7 +311,7 @@
 "JtvURL": "http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137428",
 "URL_Token": "https://live.vevonova.com/shityapps/msnbc/",
 "Use_Token": "yes",
-"URL_indice": "/mono.m3u8"
+"URL_indice": "/index.m3u8"
 
 }],
 "Msnbc_fiverr":
@@ -1583,7 +1583,7 @@
 "JtvURL": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596",
 "URL_Token": "https://live.vevonova.com/shityapps/msnbc",
 "Use_Token": "yes",
-"URL_indice": "/mono.m3u8"
+"URL_indice": "/index.m3u8"
 
 }],
 "Msnbc_waga_corp":
@@ -1617,7 +1617,7 @@
 "JtvURL": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596",
 "URL_Token": "https://live.vevonova.com/shityapps/msnbc",
 "Use_Token": "yes",
-"URL_indice": "/mono.m3u8"
+"URL_indice": "/index.m3u8"
 
 
 }],

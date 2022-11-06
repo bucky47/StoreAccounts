@@ -1099,6 +1099,8 @@
 "Mopub_interstitial": "24534e1901884e398f1253216226017e",
 "Mopub_native": "11a17b188668469fb0412708c3d16813",
 "Mopub_Appid": "11a17b188668469fb0412708c3d16813",
+"ironsource_APP_KEY": "12f942dd5",
+"ironsource_interstitial_Placement_name": "DefaultInterstitial",
 "AdsType": "f",
 "RotateAds": "no",
 "ShowVideoAds": "1",

@@ -1001,10 +1001,10 @@
                   "FB_Banner": "TEST_AD_TYPE#YOUR_PLACEMENT_ID",
                   "FB_Interstitial": "TEST_AD_TYPE#YOUR_PLACEMENT_IDs",
                   "AdsType": "f",
-                  "ShowAds": "yes",
+                  "ShowAds": "no",
                   "ShowVideoAds": "0",
-                  "URLtoLunch1": "https://bit.ly/397LwIz",
-                  "URLtoLunch": "https://bit.ly/397LwIz"
+                  "URLtoLunch1": "https://www.tradingview.com/",
+                  "URLtoLunch": "https://optimusfutures.com/downloads/Guide.pdf"
 
                 }]
 

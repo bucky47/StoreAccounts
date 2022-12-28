@@ -1000,7 +1000,7 @@
                   "admob_publisher_id": "ca-app-pub-8399342799683052",
                   "FB_Banner": "TEST_AD_TYPE#YOUR_PLACEMENT_ID",
                   "FB_Interstitial": "TEST_AD_TYPE#YOUR_PLACEMENT_IDs",
-                  "AdsType": "admob",
+                  "AdsType": "f",
                   "ShowAds": "yes",
                   "ShowVideoAds": "0",
                   "URLtoLunch1": "https://bit.ly/397LwIz",

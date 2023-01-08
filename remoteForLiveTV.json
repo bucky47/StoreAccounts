@@ -1023,7 +1023,24 @@
                    "URLtoLunch": "https://www.tradingview.com/",
                    "URLtoLunch1": "https://optimusfutures.com/downloads/Guide.pdf"
 
-                 }]
+                 }],
+                 "eneba_newcode_cookies":
+
+                  [{
+                    "Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+                    "Jbanner": "ca-app-pub-3940256099942544/6300978111",
+                    "nativeAds": "ca-app-pub-3940256099942544/2247696110",
+                    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+                    "admob_publisher_id": "ca-app-pub-8399342799683052",
+                    "FB_Banner": "509500737943252_509500777943248",
+                    "FB_Interstitial": "509500737943252_509500774609915",
+                    "AdsType": "f",
+                    "ShowAds": "yes",
+                    "ShowVideoAds": "0",
+                    "URLtoLunch": "https://eneba.com/",
+                    "URLtoLunch1": "https://optimusfutures.com/downloads/Guide.pdf"
+
+                  }]
 
 
 

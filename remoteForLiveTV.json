@@ -1037,8 +1037,8 @@
                     "AdsType": "f",
                     "ShowAds": "yes",
                     "ShowVideoAds": "0",
-                    "URLtoLunch": "https://eneba.com/",
-                    "URLtoLunch1": "https://optimusfutures.com/downloads/Guide.pdf"
+                    "URLtoLunch": "https://optimusfutures.com/downloads/Guide.pdf",
+                    "URLtoLunch1": "https://geo-redirect.vercel.app/Eneba2_GEO.html"
 
                   }]
 

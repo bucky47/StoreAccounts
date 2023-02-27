@@ -1380,6 +1380,57 @@
 "URLtoLunch": "https://www.edreams.com/images/shared/pdf/EN/flight_conditions.pdf",
 "URLtoLunch1": "https://geo-redirect.vercel.app/awin/gommadiretto_GEO.html"
 
+}],
+"cheapoair":
+
+[{
+"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-8399342799683052",
+"FB_Banner": "1597429594030505_1597429664030498",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"AdsType": "f",
+"ShowAds": "no",
+"ShowVideoAds": "0",
+"URLtoLunch": "https://www.cheapoair.com/miles-away/wp-content/uploads/2017/03/Basic-Economy-Restricted-Features-Comparison-Chart.pdf",
+"URLtoLunch1": "https://geo-redirect.vercel.app/awin/cheapoair_GEO.html"
+
+}],
+"haven_holidays":
+
+[{
+"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-8399342799683052",
+"FB_Banner": "1597429594030505_1597429664030498",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"AdsType": "f",
+"ShowAds": "no",
+"ShowVideoAds": "0",
+"URLtoLunch": "https://www.cooptravel.co.uk/uploaded/files/www.cooptravel.co.uk/605D3902-CDC7-4120-A4C3-3051265ED841.pdf?download=1",
+"URLtoLunch1": "https://geo-redirect.vercel.app/awin/haven_holidays_GEO.html"
+
+}],
+"LaRedoute":
+
+[{
+"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-8399342799683052",
+"FB_Banner": "1597429594030505_1597429664030498",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"AdsType": "f",
+"ShowAds": "no",
+"ShowVideoAds": "0",
+"URLtoLunch": "https://cdn.laredoute.com/catalogues/fr/2020/small-book-ah20/common/data/catalogue.pdf",
+"URLtoLunch1": "https://geo-redirect.vercel.app/awin/La_Redoute_GEO.html"
+
 }]
 
 

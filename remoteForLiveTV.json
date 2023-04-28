@@ -1707,14 +1707,14 @@
 "vfs_global":
 
 [{
-"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
-"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+"Jinterstitial": "ca-app-pub-4489295318592466/7022488514",
+"Jbanner": "ca-app-pub-4489295318592466/9648651851",
 "nativeAds": "ca-app-pub-3940256099942544/2247696110",
 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 "admob_publisher_id": "ca-app-pub-8399342799683052",
 "FB_Banner": "1186375295285006_1186375388618330",
 "FB_Interstitial": "1186375295285006_1186375378618331",
-"AdsType": "f",
+"AdsType": "admob",
 "ShowAds": "yes",
 "ShowVideoAds": "0",
 "URLtoLunch1": "https://www.neimanmarcus.com/category/inc004000/incircle.pdf",

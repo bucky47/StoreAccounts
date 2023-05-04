@@ -1697,7 +1697,7 @@
 "admob_publisher_id": "ca-app-pub-8399342799683052",
 "FB_Banner": "3179728015660208_3179728085660201",
 "FB_Interstitial": "3179728015660208_3179728095660200",
-"AdsType": "admob",
+"AdsType": "f",
 "ShowAds": "yes",
 "ShowVideoAds": "1",
 "URLtoLunch1": "https://static.tlscontact.com/media/tlsdocuments_user-guide.pdf",

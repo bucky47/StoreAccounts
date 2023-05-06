@@ -1870,8 +1870,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch1": "https://s3.amazonaws.com/external_clips/2892566/Cultbeauty_Magazine_Digital.pdf?1540748493",
-"URLtoLunch": "https://geo-redirect.vercel.app/Cult%20Beauty_GEO.html"
+"URLtoLunch": "https://s3.amazonaws.com/external_clips/2892566/Cultbeauty_Magazine_Digital.pdf?1540748493",
+"URLtoLunch1": "https://geo-redirect.vercel.app/Cult%20Beauty_GEO.html"
 
 }]
 

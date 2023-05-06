@@ -1228,23 +1228,6 @@
                                "URLtoLunch": "https://www.augustapreciousmetals.com/apm-lp/gold-ira-jm-arrow-expedited-4-inflation/?apmtrkr_cid=1696&aff_id=1300&sub_id=empow"
 
                              }],
-"belvilla":
-
-[{
-"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
-"Jbanner": "ca-app-pub-3940256099942544/6300978111",
-"nativeAds": "ca-app-pub-3940256099942544/2247696110",
-"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-"admob_publisher_id": "ca-app-pub-8399342799683052",
-"FB_Banner": "1597429594030505_1597429664030498",
-"FB_Interstitial": "1597429594030505_1597429660697165",
-"AdsType": "f",
-"ShowAds": "no",
-"ShowVideoAds": "0",
-"URLtoLunch": "https://www.empower.com/wp-content/uploads/2020/03/Empower-Select-Capabilities-Brochure-Bundled-FINAL.pdf",
-"URLtoLunch1": "https://geo-redirect.vercel.app/awin/belvilla_GEO.html"
-
-}],
 "adorama":
 
 [{
@@ -1872,6 +1855,23 @@
 "ShowVideoAds": "0",
 "URLtoLunch1": "https://vert.si/VyNHfa",
 "URLtoLunch": "https://www.staralliance.com/documents/424633084/443291269/TAP+Air+Portugal.pdf/c0453840-1bba-ea43-d357-fe910b9ab042?t=1571151141124"
+
+}],
+"belvilla":
+
+[{
+"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-8399342799683052",
+"FB_Banner": "1597429594030505_1597429664030498",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"AdsType": "f",
+"ShowAds": "no",
+"ShowVideoAds": "0",
+"URLtoLunch1": "https://www.empower.com/wp-content/uploads/2020/03/Empower-Select-Capabilities-Brochure-Bundled-FINAL.pdf",
+"URLtoLunch": "https://geo-redirect.vercel.app/awin/belvilla_GEO.html"
 
 }]
 

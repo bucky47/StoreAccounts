@@ -1296,23 +1296,6 @@
 "URLtoLunch1": "https://geo-redirect.vercel.app/awin/casetify_GEO.html"
 
 }],
-"CultBeauty":
-
-[{
-"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
-"Jbanner": "ca-app-pub-3940256099942544/6300978111",
-"nativeAds": "ca-app-pub-3940256099942544/2247696110",
-"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-"admob_publisher_id": "ca-app-pub-8399342799683052",
-"FB_Banner": "1597429594030505_1597429664030498",
-"FB_Interstitial": "1597429594030505_1597429660697165",
-"AdsType": "f",
-"ShowAds": "no",
-"ShowVideoAds": "0",
-"URLtoLunch": "https://s3.amazonaws.com/external_clips/2892566/Cultbeauty_Magazine_Digital.pdf?1540748493",
-"URLtoLunch1": "https://geo-redirect.vercel.app/Cult%20Beauty_GEO.html"
-
-}],
 "eDreams":
 
 [{
@@ -1872,6 +1855,23 @@
 "ShowVideoAds": "0",
 "URLtoLunch1": "https://images.blue-tomato.com/is/content/bluetomato/cms/help/presse/mediakit/mediakit.pdf",
 "URLtoLunch": "https://geo-redirect.vercel.app/awin/blue_tomato_GEO.html"
+
+}],
+"CultBeauty":
+
+[{
+"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-8399342799683052",
+"FB_Banner": "1597429594030505_1597429664030498",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"AdsType": "f",
+"ShowAds": "no",
+"ShowVideoAds": "0",
+"URLtoLunch1": "https://s3.amazonaws.com/external_clips/2892566/Cultbeauty_Magazine_Digital.pdf?1540748493",
+"URLtoLunch": "https://geo-redirect.vercel.app/Cult%20Beauty_GEO.html"
 
 }]
 

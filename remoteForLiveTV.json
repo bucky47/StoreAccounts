@@ -1398,23 +1398,6 @@
 "URLtoLunch1": "https://geo-redirect.vercel.app/Toolstation_GEO.html"
 
 }],
-"wowcher":
-
-[{
-"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
-"Jbanner": "ca-app-pub-3940256099942544/6300978111",
-"nativeAds": "ca-app-pub-3940256099942544/2247696110",
-"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-"admob_publisher_id": "ca-app-pub-8399342799683052",
-"FB_Banner": "1597429594030505_1597429664030498",
-"FB_Interstitial": "1597429594030505_1597429660697165",
-"AdsType": "f",
-"ShowAds": "no",
-"ShowVideoAds": "0",
-"URLtoLunch": "https://media.radissonhotels.net/image/corporate--media/miscellaneous/16256-140837-m22168354.pdf",
-"URLtoLunch1": "https://geo-redirect.vercel.app/awin/wowcher_GEO.html"
-
-}],
 "zooplus":
 
 [{
@@ -1887,8 +1870,25 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch1": "https://www.edreams.com/images/shared/pdf/EN/flight_conditions.pdf",
-"URLtoLunch": "https://geo-redirect.vercel.app/awin/eDreams_GEO.html"
+"URLtoLunch": "https://www.edreams.com/images/shared/pdf/EN/flight_conditions.pdf",
+"URLtoLunch1": "https://geo-redirect.vercel.app/awin/eDreams_GEO.html"
+
+}],
+"wowcher":
+
+[{
+"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-8399342799683052",
+"FB_Banner": "1597429594030505_1597429664030498",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"AdsType": "f",
+"ShowAds": "no",
+"ShowVideoAds": "0",
+"URLtoLunch1": "https://media.radissonhotels.net/image/corporate--media/miscellaneous/16256-140837-m22168354.pdf",
+"URLtoLunch": "https://geo-redirect.vercel.app/awin/wowcher_GEO.html"
 
 }]
 

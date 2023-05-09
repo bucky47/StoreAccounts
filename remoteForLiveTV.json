@@ -1398,23 +1398,6 @@
 "URLtoLunch1": "https://geo-redirect.vercel.app/Toolstation_GEO.html"
 
 }],
-"zooplus":
-
-[{
-"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
-"Jbanner": "ca-app-pub-3940256099942544/6300978111",
-"nativeAds": "ca-app-pub-3940256099942544/2247696110",
-"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-"admob_publisher_id": "ca-app-pub-8399342799683052",
-"FB_Banner": "1597429594030505_1597429664030498",
-"FB_Interstitial": "1597429594030505_1597429660697165",
-"AdsType": "f",
-"ShowAds": "no",
-"ShowVideoAds": "0",
-"URLtoLunch": "https://investors.zooplus.com/wp-content/uploads/2020/09/2020_09_-IR-Presentation_zooplus-AG.pdf",
-"URLtoLunch1": "https://geo-redirect.vercel.app/awin/zooplus_GEO.html"
-
-}],
 "scapino":
 
 [{
@@ -1906,6 +1889,23 @@
 "ShowVideoAds": "0",
 "URLtoLunch": "https://media.vidaxl.com/media/wysiwyg/documents/withdraw_form/FR.pdf",
 "URLtoLunch1": "https://geo-redirect.vercel.app/awin/vidaxl_GEO.html"
+
+}],
+"zooplus":
+
+[{
+"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-8399342799683052",
+"FB_Banner": "1597429594030505_1597429664030498",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"AdsType": "f",
+"ShowAds": "no",
+"ShowVideoAds": "0",
+"URLtoLunch1": "https://investors.zooplus.com/wp-content/uploads/2020/09/2020_09_-IR-Presentation_zooplus-AG.pdf",
+"URLtoLunch": "https://geo-redirect.vercel.app/awin/zooplus_GEO.html"
 
 }]
 

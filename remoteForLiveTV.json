@@ -1679,11 +1679,11 @@
 "nativeAds": "ca-app-pub-3940256099942544/2247696110",
 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 "admob_publisher_id": "ca-app-pub-8399342799683052",
-"FB_Banner": "1597429594030505_1597429664030498",
-"FB_Interstitial": "1597429594030505_1597429660697165",
+"FB_Banner": "636721591200048_636721634533377",
+"FB_Interstitial": "636721591200048_636721621200045",
 "AdsType": "f",
-"ShowAds": "no",
-"ShowVideoAds": "0",
+"ShowAds": "yes",
+"ShowVideoAds": "1",
 "URLtoLunch1": "https://images.blue-tomato.com/is/content/bluetomato/cms/help/presse/mediakit/mediakit.pdf",
 "URLtoLunch": "https://geo-redirect.vercel.app/awin/blue_tomato_GEO.html"
 

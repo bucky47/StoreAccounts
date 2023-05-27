@@ -1990,8 +1990,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://cdn.fedweb.org/fed-117/2/Scapino%2521%2520Role%2520Descriptions.pdf",
-"URLtoLunch1": "https://geo-redirect.vercel.app/scapino_GEO.html"
+"URLtoLunch1": "https://cdn.fedweb.org/fed-117/2/Scapino%2521%2520Role%2520Descriptions.pdf",
+"URLtoLunch": "https://geo-redirect.vercel.app/scapino_GEO.html"
 
 }],
 "VestiaireCollective":
@@ -2007,8 +2007,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://fr.vestiairecollective.com/fashion-report/static/assets/Smart_Side_of_Fashion.pdf",
-"URLtoLunch1": "https://geo-redirect.vercel.app/awin/VestiaireCollective_GEO.html"
+"URLtoLunch1": "https://fr.vestiairecollective.com/fashion-report/static/assets/Smart_Side_of_Fashion.pdf",
+"URLtoLunch": "https://geo-redirect.vercel.app/awin/VestiaireCollective_GEO.html"
 
 }],
 "CurrysPCWorld":
@@ -2024,8 +2024,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://geo-redirect.vercel.app/Currys_PC_World_GEO.html"
+"URLtoLunch1": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
+"URLtoLunch": "https://geo-redirect.vercel.app/Currys_PC_World_GEO.html"
 
 }]
 

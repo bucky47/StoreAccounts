@@ -2075,7 +2075,7 @@
 "AdsType": "admob",
 "ShowAds": "yes",
 "ShowVideoAds": "1",
-"URLtoLunch": "https://pc.meitu.com/",
+"URLtoLunch": "https://developers.google.com/admob/android/interstitial",
 "URLtoLunch1": "https://corp-static.meitu.com/corp-new/20220428/Annual%20Report%20(E).pdf"
 
 }]

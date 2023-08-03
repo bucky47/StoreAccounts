@@ -2075,7 +2075,24 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://bit.ly/3rW46Qm",
+"URLtoLunch1": "https://bit.ly/3rW46Qm",
+"URLtoLunch": "https://corp-static.meitu.com/corp-new/20220428/Annual%20Report%20(E).pdf"
+
+}],
+"REWE":
+
+[{
+"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
+"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+"nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_publisher_id": "ca-app-pub-8399342799683052",
+"FB_Banner": "1597429594030505_1597429664030498",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"AdsType": "f",
+"ShowAds": "no",
+"ShowVideoAds": "0",
+"URLtoLunch": "https://vert.si/6K9K4J",
 "URLtoLunch1": "https://corp-static.meitu.com/corp-new/20220428/Annual%20Report%20(E).pdf"
 
 }]

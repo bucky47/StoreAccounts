@@ -966,7 +966,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/airfare_GEO.html"
 
 }],
 "airline_flights":
@@ -983,7 +983,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/airline_flights_GEO.html"
 
 }],
 "airline_tickets":
@@ -1000,7 +1000,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/airline_tickets_GEO.html"
 
 }],
 "bookaflight":
@@ -1017,7 +1017,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/bookaflight_GEO.html"
 
 }],
 "cheapairlinetickets":
@@ -1034,7 +1034,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/cheapairlinetickets_GEO.html"
 
 }],
 "cheapflighttickets":
@@ -1051,7 +1051,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/cheapflighttickets_GEO.html"
 
 }],
 "cheapplanetickets":
@@ -1068,7 +1068,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/cheapplanetickets_GEO.html"
 
 }],
 "cheapair_flights":
@@ -1085,7 +1085,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/cheapair_flights_GEO.html"
 
 }],
 "expedia_flights":
@@ -1102,7 +1102,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/expedia_flights_GEO.html"
 
 }],
 "flight_ticket":
@@ -1119,7 +1119,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/flight_ticket_GEO.html"
 
 }],
 "orbitz_flight":
@@ -1136,7 +1136,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/orbitz_flight_GEO.html"
 
 }],
 "plane_tickets":
@@ -1153,7 +1153,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/plane_tickets_GEO.html"
 
 }],
 "priceline_flight":
@@ -1170,7 +1170,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/air_ticket_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/priceline_flight_GEO.html"
 
 }]
 

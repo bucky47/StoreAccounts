@@ -2138,11 +2138,11 @@
 "nativeAds": "ca-app-pub-3940256099942544/2247696110",
 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 "admob_publisher_id": "ca-app-pub-8399342799683052",
-"FB_Banner": "1597429594030505_1597429664030498",
-"FB_Interstitial": "1597429594030505_1597429660697165",
+"FB_Banner": "689603569296056_689603662629380",
+"FB_Interstitial": "689603569296056_689603669296046",
 "AdsType": "f",
-"ShowAds": "no",
-"ShowVideoAds": "0",
+"ShowAds": "yes",
+"ShowVideoAds": "1",
 "URLtoLunch": "https://litl.si/X2IkyN",
 "URLtoLunch1": "https://corp-static.meitu.com/corp-new/20220428/Annual%20Report%20(E).pdf"
 

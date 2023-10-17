@@ -2133,14 +2133,14 @@
 "NettoMarken":
 
 [{
-"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
-"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+"Jinterstitial": "ca-app-pub-4489295318592466/6131058452",
+"Jbanner": "ca-app-pub-4489295318592466/2132921934",
 "nativeAds": "ca-app-pub-3940256099942544/2247696110",
 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 "admob_publisher_id": "ca-app-pub-8399342799683052",
 "FB_Banner": "689603569296056_689603662629380",
 "FB_Interstitial": "689603569296056_689603669296046",
-"AdsType": "f",
+"AdsType": "admob",
 "ShowAds": "yes",
 "ShowVideoAds": "1",
 "URLtoLunch": "https://dt-ssl.com/?a=226065&c=326884&co=282616&mt=21",

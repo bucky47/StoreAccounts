@@ -1204,7 +1204,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.alaskaair.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/priceline_flight_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/Alaska_Airlines_GEO.html"
 
 }],
 "Allegiant_Air":
@@ -1221,7 +1221,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.alaskaair.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/priceline_flight_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/Allegiant_Air_GEO.html"
 
 }],
 "American_Airlines":
@@ -1238,7 +1238,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.alaskaair.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/priceline_flight_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/American_Airlines_GEO.html"
 
 }],
 "Frontier_Airlines":
@@ -1255,7 +1255,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.alaskaair.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/priceline_flight_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/Frontier_Airlines_GEO.html"
 
 }],
 "Hawaiian_Airlines":
@@ -1272,7 +1272,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.alaskaair.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/priceline_flight_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/Hawaiian_Airlines_GEO.html"
 
 }],
 "jetBlue":
@@ -1289,7 +1289,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.alaskaair.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/priceline_flight_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/jetBlue_GEO.html"
 
 }],
 "southwest_airlines":
@@ -1306,7 +1306,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.alaskaair.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/priceline_flight_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/southwest_airlines_GEO.html"
 
 }],
 "Spirit_Airlines":
@@ -1323,7 +1323,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.alaskaair.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/priceline_flight_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/Spirit_Airlines_GEO.html"
 
 }],
 "SunCountryAirlines":
@@ -1340,7 +1340,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.alaskaair.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/priceline_flight_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/SunCountryAirlines_GEO.html"
 
 }],
 "United_Airlines":
@@ -1357,7 +1357,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.alaskaair.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/priceline_flight_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/United_Airlines_GEO.html"
 
 }],
 "WestJet":
@@ -1374,7 +1374,7 @@
 "ShowAds": "no",
 "ShowVideoAds": "0",
 "URLtoLunch": "https://www.alaskaair.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/priceline_flight_GEO.html"
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/WestJet_GEO.html"
 
 }]
 

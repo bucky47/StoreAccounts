@@ -2456,8 +2456,8 @@
 "grok":
 
 [{
-"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
-"Jbanner": "ca-app-pub-3940256099942544/6300978111",
+"Jinterstitial": "ca-app-pub-4489295318592466/7859882562",
+"Jbanner": "ca-app-pub-4489295318592466/8250764806",
 "nativeAds": "ca-app-pub-3940256099942544/2247696110",
 "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 "admob_publisher_id": "ca-app-pub-8399342799683052",
@@ -2466,8 +2466,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://grok.x.ai/",
-"URLtoLunch1": "https://docs.streamsets.com/platform-datacollector/latest/datacollector/UserGuide/Apx-GrokPatterns/GrokPatterns_title.html"
+"URLtoLunch1": "https://grok.x.ai/",
+"URLtoLunch": "https://docs.streamsets.com/platform-datacollector/latest/datacollector/UserGuide/Apx-GrokPatterns/GrokPatterns_title.html"
 
 }]
 

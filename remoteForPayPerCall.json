@@ -1305,8 +1305,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch1": "https://www.alaskaair.com/",
-"URLtoLunch": "https://pay-per-call-geo.vercel.app/southwest_airlines_GEO.html"
+"URLtoLunch": "https://live.vevonova.com/Delta",
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/southwest_airlines_GEO.html"
 
 }],
 "Spirit_Airlines":
@@ -1373,8 +1373,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch1": "https://www.alaskaair.com/",
-"URLtoLunch": "https://pay-per-call-geo.vercel.app/WestJet_GEO.html"
+"URLtoLunch": "https://live.vevonova.com/Delta",
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/WestJet_GEO.html"
 
 }]
 

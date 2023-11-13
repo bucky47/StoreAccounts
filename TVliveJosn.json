@@ -1761,7 +1761,7 @@
 "ironsource_interstitial_Placement_name": "DefaultInterstitial",
 "AdsType": "admob",
 "RotateAds": "no",
-"ShowVideoAds": "0",
+"ShowVideoAds": "1",
 "ActivitySwitch": "f",
 "URLtoLunch": "https://wku.edu.cn/wp-content/uploads/2018/04/Bloomberg-User-Guide.pdf",
 "JtvURL": "https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8",

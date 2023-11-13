@@ -1254,8 +1254,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch1": "https://www.alaskaair.com/",
-"URLtoLunch": "https://pay-per-call-geo.vercel.app/Frontier_Airlines_GEO.html"
+"URLtoLunch": "https://live.vevonova.com/shityapps/frontierairlines/",
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/Frontier_Airlines_GEO.html"
 
 }],
 "Hawaiian_Airlines":
@@ -1322,8 +1322,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch1": "https://www.alaskaair.com/",
-"URLtoLunch": "https://pay-per-call-geo.vercel.app/Spirit_Airlines_GEO.html"
+"URLtoLunch": "https://live.vevonova.com/shityapps/SpiritAirlines/",
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/Spirit_Airlines_GEO.html"
 
 }],
 "SunCountryAirlines":
@@ -1339,8 +1339,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch1": "https://www.alaskaair.com/",
-"URLtoLunch": "https://pay-per-call-geo.vercel.app/SunCountryAirlines_GEO.html"
+"URLtoLunch": "https://live.vevonova.com/shityapps/SunCountryAirlines/",
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/SunCountryAirlines_GEO.html"
 
 }],
 "United_Airlines":

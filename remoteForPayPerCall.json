@@ -1288,7 +1288,7 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://live.vevonova.com/Delta",
+"URLtoLunch": "https://www.jetblue.com/",
 "URLtoLunch1": "https://pay-per-call-geo.vercel.app/jetBlue_GEO.html"
 
 }],
@@ -1305,7 +1305,7 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://www.westjet.com/assets/wj-web/documents/en/investorMedia/factSheet.pdf",
+"URLtoLunch": "https://www.southwest.com/",
 "URLtoLunch1": "https://pay-per-call-geo.vercel.app/southwest_airlines_GEO.html"
 
 }],
@@ -1373,7 +1373,7 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://www.westjet.com/assets/wj-web/documents/en/investorMedia/factSheet.pdf",
+"URLtoLunch": "https://www.westjet.com/",
 "URLtoLunch1": "https://pay-per-call-geo.vercel.app/WestJet_GEO.html"
 
 }]

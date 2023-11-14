@@ -1220,8 +1220,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch1": "https://www.alaskaair.com/",
-"URLtoLunch": "https://pay-per-call-geo.vercel.app/Allegiant_Air_GEO.html"
+"URLtoLunch": "https://www.allegiantair.com/",
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/Allegiant_Air_GEO.html"
 
 }],
 "American_Airlines":
@@ -1237,8 +1237,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch1": "https://www.alaskaair.com/",
-"URLtoLunch": "https://pay-per-call-geo.vercel.app/American_Airlines_GEO.html"
+"URLtoLunch": "https://www.aa.com/homePage.do?locale=en_US",
+"URLtoLunch1": "https://pay-per-call-geo.vercel.app/American_Airlines_GEO.html"
 
 }],
 "Frontier_Airlines":

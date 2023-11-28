@@ -1254,8 +1254,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://www.flyfrontier.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/Frontier_Airlines_GEO.html"
+"URLtoLunch2": "https://www.flyfrontier.com/",
+"URLtoLunch": "https://pay-per-call-geo.vercel.app/Frontier_Airlines_GEO.html"
 
 }],
 "Hawaiian_Airlines":
@@ -1288,8 +1288,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://www.jetblue.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/jetBlue_GEO.html"
+"URLtoLunch1": "https://www.jetblue.com/",
+"URLtoLunch": "https://pay-per-call-geo.vercel.app/jetBlue_GEO.html"
 
 }],
 "southwest_airlines":
@@ -1305,8 +1305,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://www.southwest.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/southwest_airlines_GEO.html"
+"URLtoLunch1": "https://www.southwest.com/",
+"URLtoLunch": "https://pay-per-call-geo.vercel.app/southwest_airlines_GEO.html"
 
 }],
 "Spirit_Airlines":
@@ -1322,8 +1322,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://www.spirit.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/Spirit_Airlines_GEO.html"
+"URLtoLunch1": "https://www.spirit.com/",
+"URLtoLunch": "https://pay-per-call-geo.vercel.app/Spirit_Airlines_GEO.html"
 
 }],
 "SunCountryAirlines":
@@ -1373,8 +1373,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://www.westjet.com/",
-"URLtoLunch1": "https://pay-per-call-geo.vercel.app/WestJet_GEO.html"
+"URLtoLunch1": "https://www.westjet.com/",
+"URLtoLunch": "https://pay-per-call-geo.vercel.app/WestJet_GEO.html"
 
 }]
 

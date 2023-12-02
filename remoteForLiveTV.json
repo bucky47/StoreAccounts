@@ -2720,7 +2720,7 @@
 "FB_Interstitial": "793572902323128_793572985656453",
 "AdsType": "admob",
 "ShowAds": "yes",
-"ShowVideoAds": "1",
+"ShowVideoAds": "0",
 "URLtoLunch": "https://geo-redirect.vercel.app/NewBalance_GEO.html",
 "URLtoLunch1": "https://cherry.tv"
 

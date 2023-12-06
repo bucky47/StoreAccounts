@@ -2716,11 +2716,11 @@
 "nativeAds": "ca-app-pub-3940256099942544/2247696110",
 "admob_app_id": "ca-app-pub-4489295318592466~8423372509",
 "admob_publisher_id": "ca-app-pub-4489295318592466",
-"FB_Banner": "793572902323128_793572982323120",
-"FB_Interstitial": "793572902323128_793572985656453",
-"AdsType": "admob",
+"FB_Banner": "897683541714458_897683621714450",
+"FB_Interstitial": "897683541714458_897683635047782",
+"AdsType": "f",
 "ShowAds": "yes",
-"ShowVideoAds": "0",
+"ShowVideoAds": "1",
 "URLtoLunch": "https://geo-redirect.vercel.app/NewBalance_GEO.html",
 "URLtoLunch1": "https://cherry.tv"
 

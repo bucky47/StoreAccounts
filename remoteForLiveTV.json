@@ -2767,11 +2767,11 @@
 "nativeAds": "ca-app-pub-3940256099942544/2247696110",
 "admob_app_id": "ca-app-pub-4489295318592466~8423372509",
 "admob_publisher_id": "ca-app-pub-4489295318592466",
-"FB_Banner": "793572902323128_793572982323120",
-"FB_Interstitial": "793572902323128_793572985656453",
+"FB_Banner": "723771382649744_723771462649736",
+"FB_Interstitial": "723771382649744_723771472649735",
 "AdsType": "f",
-"ShowAds": "no",
-"ShowVideoAds": "0",
+"ShowAds": "yes",
+"ShowVideoAds": "1",
 "URLtoLunch": "https://geo-redirect.vercel.app/ticketmaster_GEO.html",
 "URLtoLunch1": "https://cherry.tv"
 

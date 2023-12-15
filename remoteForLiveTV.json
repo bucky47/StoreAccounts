@@ -2719,10 +2719,10 @@
 "FB_Banner": "897683541714458_897683621714450",
 "FB_Interstitial": "897683541714458_897683635047782",
 "AdsType": "f",
-"ShowAds": "yes",
-"ShowVideoAds": "1",
-"URLtoLunch": "https://geo-redirect.vercel.app/NewBalance_GEO.html",
-"URLtoLunch1": "https://www.newbalance.com/on/demandware.static/-/Library-Sites-NBUS-NBCA/default/dwc8002a8d/pdf/Mens_Printable_Sizing_Tool.pdf"
+"ShowAds": "no",
+"ShowVideoAds": "0",
+"URLtoLunch1": "https://geo-redirect.vercel.app/NewBalance_GEO.html",
+"URLtoLunch": "https://www.newbalance.com/on/demandware.static/-/Library-Sites-NBUS-NBCA/default/dwc8002a8d/pdf/Mens_Printable_Sizing_Tool.pdf"
 
 }],
 "Paramount":

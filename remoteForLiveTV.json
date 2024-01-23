@@ -2592,17 +2592,17 @@
 "freestylelibre":
 
 [{
-"Jinterstitial": "ca-app-pub-4489295318592466/6602990269",
-"Jbanner": "ca-app-pub-4489295318592466/7632204748",
+"Jinterstitial": "2365398736983720_2365398830317044",
+"Jbanner": "2365398736983720_2365398820317045",
 "nativeAds": "ca-app-pub-3940256099942544/2247696110",
 "admob_app_id": "ca-app-pub-4489295318592466~8423372509",
 "admob_publisher_id": "ca-app-pub-4489295318592466",
 "FB_Banner": "793572902323128_793572982323120",
 "FB_Interstitial": "793572902323128_793572985656453",
 "AdsType": "f",
-"ShowAds": "no",
-"ShowVideoAds": "0",
-"URLtoLunch": "https://mwebrespect.com/6530/1527/2/&subid=mobile",
+"ShowAds": "yes",
+"ShowVideoAds": "1",
+"URLtoLunch": "https://www.freestyle.abbott/us-en/home.html",
 "URLtoLunch1": "https://www.healthline.com/nutrition/8-ways-to-boost-testosterone"
 
 }],

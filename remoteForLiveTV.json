@@ -2925,9 +2925,9 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch1": "https://www.flashscore.com/",
+"URLtoLunch": "https://www.flashscore.com/",
 "URLtoLunch2": "https://docs.google.com/gview?embedded=true&url=https://www.stat.berkeley.edu/~aldous/157/Papers/goddard.pdf",
-"URLtoLunch": "hhttps://m.flashscore.fr/"
+"URLtoLunch1": "https://m.flashscore.fr/"
 
 }],
 "ev_charging_stations":
@@ -3011,8 +3011,8 @@
 "AdsType": "f",
 "ShowAds": "no",
 "ShowVideoAds": "0",
-"URLtoLunch": "https://mangareader.to/",
-"URLtoLunch1": "https://geo-redirect.vercel.app/shein_GEO.html"
+"URLtoLunch1": "https://mangareader.to/",
+"URLtoLunch": "https://geo-redirect.vercel.app/shein_GEO.html"
 
 }],
 "mijn_cjib":

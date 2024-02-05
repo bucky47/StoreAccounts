@@ -3010,7 +3010,7 @@
 "FB_Interstitial": "1115841063098075_1115841139764734",
 "AdsType": "admob",
 "ShowAds": "yes",
-"ShowVideoAds": "1",
+"ShowVideoAds": "0",
 "URLtoLunch": "https://mangafire.to/",
 "URLtoLunch1": "https://geo-redirect.vercel.app/shein_GEO.html"
 

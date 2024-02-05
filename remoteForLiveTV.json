@@ -3008,7 +3008,7 @@
 "admob_publisher_id": "ca-app-pub-4489295318592466",
 "FB_Banner": "1115841063098075_1115841136431401",
 "FB_Interstitial": "1115841063098075_1115841139764734",
-"AdsType": "f",
+"AdsType": "admob",
 "ShowAds": "yes",
 "ShowVideoAds": "1",
 "URLtoLunch": "https://mangafire.to/",

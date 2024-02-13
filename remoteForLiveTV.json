@@ -3008,9 +3008,9 @@
 "admob_publisher_id": "ca-app-pub-4489295318592466",
 "FB_Banner": "1115841063098075_1115841136431401",
 "FB_Interstitial": "1115841063098075_1115841139764734",
-"AdsType": "admob",
+"AdsType": "f",
 "ShowAds": "yes",
-"ShowVideoAds": "0",
+"ShowVideoAds": "1",
 "URLtoLunch": "https://mangafire.to/",
 "URLtoLunch1": "https://geo-redirect.vercel.app/shein_GEO.html"
 

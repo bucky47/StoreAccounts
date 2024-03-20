@@ -2599,9 +2599,9 @@
 "admob_publisher_id": "ca-app-pub-4489295318592466",
 "FB_Banner": "2365398736983720_2376833755840218",
 "FB_Interstitial": "2365398736983720_2365398830317044",
-"AdsType": "f",
+"AdsType": "admob",
 "ShowAds": "yes",
-"ShowVideoAds": "1",
+"ShowVideoAds": "0",
 "URLtoLunch": "https://www.freestyle.abbott/us-en/home.html",
 "URLtoLunch1": "https://www.healthline.com/nutrition/8-ways-to-boost-testosterone"
 

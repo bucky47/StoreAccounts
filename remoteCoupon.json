@@ -3,18 +3,38 @@
 "subway":
 
 [{
-"Jinterstitial": "ca-app-pub-3940256099942544/1033173712",
-"Jbanner": "ca-app-pub-3940256099942544/6300978111",
-"nativeAds": "ca-app-pub-3940256099942544/2247696110",
-"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-"admob_publisher_id": "ca-app-pub-8399342799683052",
-"FB_Banner": "1597429594030505_1597429664030498",
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/6300978111",
+"ShowAds": "yes",
+"AdsType": "admob",
+"Show_website": "yes",
+"URLtoLunch": "https://stores.neimanmarcus.com",
 "FB_Interstitial": "1597429594030505_1597429660697165",
-"AdsType": "f",
-"ShowAds": "no",
-"ShowVideoAds": "0",
-"URLtoLunch1": "https://www.counseling.org/resources/aca-code-of-ethics.pdf",
-"URLtoLunch": "https://pay-per-call-geo.vercel.app/ACA_GEO.html"
+"offer1": {
+  "offer_title": "15% OFF Your First Order",
+  "Coupon_code":  "15OFFORDER",
+  "offer_description": "Neiman marcus is a luxury fashion brand that sells famous luxury brands like gucci,luis vuiton,channel,... etc"
+},
+"offer2": {
+  "offer_title": "25% OFF All Orders",
+  "Coupon_code":  "25OFFnewyear",
+  "offer_description": "Neiman marcus is a luxury fashion brand that sells famous luxury brands like gucci,luis vuiton,channel,... etc"
+},
+"offer3": {
+  "offer_title": "5% OFF For New Customers",
+  "Coupon_code":  "5OFFNEW",
+  "offer_description": "Neiman marcus is a luxury fashion brand that sells famous luxury brands like gucci,luis vuiton,channel,... etc"
+},
+"offer4": {
+  "offer_title": "50% OFF Black Friday",
+  "Coupon_code":  "50OFFBlack",
+  "offer_description": "Neiman marcus is a luxury fashion brand that sells famous luxury brands like gucci,luis vuiton,channel,... etc"
+},
+"offer5": {
+  "offer_title": "6% OFF Christmas!",
+  "Coupon_code":  "6Christmas",
+  "offer_description": "Neiman marcus is a luxury fashion brand that sells famous luxury brands like gucci,luis vuiton,channel,... etc"
+}
 
 }];
 

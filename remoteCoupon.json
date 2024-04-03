@@ -36,6 +36,43 @@
   "offer_description": "Neiman marcus is a luxury fashion brand that sells famous luxury brands like gucci,luis vuiton,channel,... etc"
 }
 
+}],
+"holland_barret":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "yes",
+"AdsType": "admob",
+"Show_website": "yes",
+"URLtoLunch": "https://answeredqst.com/cult-beauty-your-destination-for-premium-beauty-essentials/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "SAVE 20% on orders over £20",
+  "Coupon_code":  "QUICK",
+  "offer_description": "SAVE 20% on orders over £20 or 15% on orders over £30 using this Holland & Barrett discount code"
+},
+"offer2": {
+  "offer_title": "Get 10% OFF £25 or 15% OFF £35",
+  "Coupon_code":  "PICKME",
+  "offer_description": "Get 10% OFF £25 or 15% OFF £35 using this Holland & Barrett promo code"
+},
+"offer3": {
+  "offer_title": "Enjoy 15% off when you use this promo code",
+  "Coupon_code":  "BONUS",
+  "offer_description": "Enjoy 15% off when you use this promo code"
+},
+"offer4": {
+  "offer_title": "Up to 50% off vitamins and supplements",
+  "Coupon_code":  "QUICK",
+  "offer_description": "Up to 50% off vitamins and supplements at Holland and Barrett"
+},
+"offer5": {
+  "offer_title": "22% off App Orders Over £35",
+  "Coupon_code":  "Quick22",
+  "offer_description": "22% off App Orders Over £35 with This Holland and Barrett Discount Code"
+}
+
 }]
 
 

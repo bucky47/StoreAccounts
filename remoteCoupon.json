@@ -82,32 +82,32 @@
 "ShowAds": "yes",
 "AdsType": "admob",
 "Show_website": "yes",
-"URLtoLunch": "https://answeredqst.com/holland-and-barrett-your-destination-for-quality-health-supplements/",
+"URLtoLunch": "https://answeredqst.com/casetify-review-stylish-and-customizable-phone-cases-for-iphone-11-12-and-13-featuring-exciting-evangelion-collaborations/",
 "FB_Interstitial": "1597429594030505_1597429660697165",
 "offer1": {
-  "offer_title": "SAVE 20% on orders over £20",
-  "Coupon_code":  "QUICK",
-  "offer_description": "SAVE 20% on orders over £20 or 15% on orders over £30 using this Holland & Barrett discount code"
+  "offer_title": "Buy 1 get 15% off, Buy 2+ get 25% off",
+  "Coupon_code":  "GreenMon23",
+  "offer_description": "Use this code to save Buy 1 get 15% off, Buy 2+ get 25% off"
 },
 "offer2": {
-  "offer_title": "Get 10% OFF £25 or 15% OFF £35",
-  "Coupon_code":  "PICKME",
-  "offer_description": "Get 10% OFF £25 or 15% OFF £35 using this Holland & Barrett promo code"
+  "offer_title": "Limited Time Only: 15% off all Purchases",
+  "Coupon_code":  "15CORNDOG",
+  "offer_description": "Limited Time Only: 15% off all Purchases"
 },
 "offer3": {
-  "offer_title": "Enjoy 15% off when you use this promo code",
-  "Coupon_code":  "BONUS",
-  "offer_description": "Enjoy 15% off when you use this promo code"
+  "offer_title": "15% off Student Discount",
+  "Coupon_code":  "15CORNDOG10",
+  "offer_description": "Apply this code to get 15% off Student Discount at CASETiFY"
 },
 "offer4": {
-  "offer_title": "Up to 50% off vitamins and supplements",
-  "Coupon_code":  "QUICK",
-  "offer_description": "Up to 50% off vitamins and supplements at Holland and Barrett"
+  "offer_title": "Save 10% on with this promo code",
+  "Coupon_code":  "HELLO10",
+  "offer_description": "Save 10% on with this promo code"
 },
 "offer5": {
-  "offer_title": "22% off App Orders Over £35",
-  "Coupon_code":  "Quick22",
-  "offer_description": "22% off App Orders Over £35 with This Holland and Barrett Discount Code"
+  "offer_title": "Take up to $10 off Sitewide",
+  "Coupon_code":  "W3M10",
+  "offer_description": "Take up to $10 off Sitewide with this code"
 }
 
 }]

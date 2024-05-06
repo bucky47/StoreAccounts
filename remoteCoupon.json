@@ -665,6 +665,43 @@
   "offer_description": "Take up to $10 off Sitewide with this code"
 }
 
+}],
+"belvilla_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Ontvang tot 25% korting",
+  "Coupon_code":  "APPONLY",
+  "offer_description": "Ontvang tot 25% korting op je verblijf met de Belvilla voordeelcode"
+},
+"offer2": {
+  "offer_title": "Pak 7% korting op een vakantie",
+  "Coupon_code":  "TRAUM7",
+  "offer_description": "Pak 7% korting op een vakantie met deze Belvilla kortingscode"
+},
+"offer3": {
+  "offer_title": "Belvilla kortingscode voor 20% korting",
+  "Coupon_code":  "MONEY20",
+  "offer_description": "Belvilla kortingscode voor 20% korting op je reservering"
+},
+"offer4": {
+  "offer_title": "Ontvang tot €50,- korting op je zomervakantie",
+  "Coupon_code":  "SUMMER10",
+  "offer_description": "Ontvang tot €50,- korting op je zomervakantie met deze Belvilla kortingscode"
+},
+"offer5": {
+  "offer_title": "10% korting",
+  "Coupon_code":  "DB10",
+  "offer_description": "Activeer deze Belvilla kortingscode voor 10% korting"
+}
+
 }]
 
 

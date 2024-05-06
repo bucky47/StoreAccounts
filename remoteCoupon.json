@@ -702,6 +702,43 @@
   "offer_description": "Activeer deze Belvilla kortingscode voor 10% korting"
 }
 
+}],
+"FreshlyCosmetics_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-4489295318592466/3827412753",
+"ShowAds": "yes",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/freshly-cosmetics-redefining-natural-beauty/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "30% OFF: THE BEST FRESHLY COSMETICS",
+  "Coupon_code":  "ANYWAY",
+  "offer_description": "30% OFF: THE BEST FRESHLY COSMETICS"
+},
+"offer2": {
+  "offer_title": "Limited Time Only: 25% OFF",
+  "Coupon_code":  "25FRESHLY",
+  "offer_description": "Limited Time Only: 25% OFF off all Purchases"
+},
+"offer3": {
+  "offer_title": "25% Off All Orders",
+  "Coupon_code":  "LAURAESCANES",
+  "offer_description": "25% Off All Orders"
+},
+"offer4": {
+  "offer_title": "5% Off All Orders with this promo code",
+  "Coupon_code":  "mariemt25",
+  "offer_description": "5% Off All Orders with this promo code"
+},
+"offer5": {
+  "offer_title": "20% Off Your Order",
+  "Coupon_code":  "NATURALCOSMETICS",
+  "offer_description": "20% Off Your Order"
+}
+
 }]
 
 

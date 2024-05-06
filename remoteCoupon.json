@@ -887,6 +887,43 @@
   "offer_description": "Travel from $2.99 Each Way + Free WiFi"
 }
 
+}],
+"radissonHotels_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "FlixBus Promo Code",
+  "Coupon_code":  "FLX628",
+  "offer_description": "FlixBus Promo Code: Get Up to 15% Off Any Booking"
+},
+"offer2": {
+  "offer_title": "FlixBus Special Deal",
+  "Coupon_code":  "FLX47UN",
+  "offer_description": "FlixBus Special Deal: 15% Off Your Order Store-Wide"
+},
+"offer3": {
+  "offer_title": "FlixBus Discount Code",
+  "Coupon_code":  "VDH36G47BLA",
+  "offer_description": "FlixBus Discount Code: Save Up tp 10% on Any Bus Booking"
+},
+"offer4": {
+  "offer_title": "Save $20",
+  "Coupon_code":  "SPRING",
+  "offer_description": "Save $20 on First Flixbus Trip With New Customer Coupon"
+},
+"offer5": {
+  "offer_title": "Travel from $2.99",
+  "Coupon_code":  "GIVE",
+  "offer_description": "Travel from $2.99 Each Way + Free WiFi"
+}
+
 }]
 
 

@@ -708,8 +708,8 @@
 [{
 "FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
 "admob_nativeAds": "ca-app-pub-4489295318592466/3827412753",
-"ShowAds": "yes",
-"AdsType": "admob",
+"ShowAds": "no",
+"AdsType": "f",
 "Show_website": "no",
 "URLtoLunch": "https://answeredqst.com/freshly-cosmetics-redefining-natural-beauty/",
 "FB_Interstitial": "1597429594030505_1597429660697165",

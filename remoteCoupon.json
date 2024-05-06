@@ -924,6 +924,43 @@
   "offer_description": "Travel from $2.99 Each Way + Free WiFi"
 }
 
+}],
+"VestiaireCollective_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Save 20% Off",
+  "Coupon_code":  "VC-SUN",
+  "offer_description": "Save 20% Off Your Purchase"
+},
+"offer2": {
+  "offer_title": "15% Off",
+  "Coupon_code":  "WHSALE",
+  "offer_description": "15% Off Your Purchase"
+},
+"offer3": {
+  "offer_title": "Extra 9% Off Storewide",
+  "Coupon_code":  "US4BV6",
+  "offer_description": "Extra 9% Off Storewide w/ Minimum Spend"
+},
+"offer4": {
+  "offer_title": "Vestiaire Collective Coupon",
+  "Coupon_code":  "VC-FIRST",
+  "offer_description": "Vestiaire Collective Coupon: Save $45 off"
+},
+"offer5": {
+  "offer_title": "Save 20% at Vestiaire",
+  "Coupon_code":  "HOT-HOT-JUNE",
+  "offer_description": "Save 20% at Vestiaire"
+}
+
 }]
 
 

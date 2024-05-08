@@ -961,6 +961,43 @@
   "offer_description": "Save 20% at Vestiaire"
 }
 
+}],
+"AbeBooks_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Get 15% Off",
+  "Coupon_code":  "AM6BET",
+  "offer_description": "Get 15% Off Your Purchase"
+},
+"offer2": {
+  "offer_title": "Utilize Discount Code For Savings",
+  "Coupon_code":  "ETDXMJ",
+  "offer_description": "Utilize Discount Code For Savings"
+},
+"offer3": {
+  "offer_title": "10% Off Sitewide",
+  "Coupon_code":  "E7NGVL",
+  "offer_description": "10% Off Sitewide"
+},
+"offer4": {
+  "offer_title": "Save $5 at AbeBooks",
+  "Coupon_code":  "P92AA7",
+  "offer_description": "Save $5 at AbeBooks"
+},
+"offer5": {
+  "offer_title": "Take $15 Off Your Order",
+  "Coupon_code":  "A442D4direct",
+  "offer_description": "Take $15 Off Your Order"
+}
+
 }]
 
 

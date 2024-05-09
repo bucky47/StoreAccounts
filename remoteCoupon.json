@@ -1047,29 +1047,510 @@
 "URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
 "FB_Interstitial": "1597429594030505_1597429660697165",
 "offer1": {
-  "offer_title": "Extra 30% off Designer Brands",
-  "Coupon_code":  "VIP",
-  "offer_description": "VIP Sale Ends Sunday! Extra 30% off Designer Brands + 15% off Beauty with code"
+  "offer_title": "Take $40 Off",
+  "Coupon_code":  "MORE4MOM",
+  "offer_description": "Take $40 Off Your Order"
 },
 "offer2": {
-  "offer_title": "Limited Time Only: 25% OFF",
-  "Coupon_code":  "TAKING",
-  "offer_description": "Top Coupons & Promo Codes: April 2024"
+  "offer_title": "ASICS Coupon: $40 Off",
+  "Coupon_code":  "MORE4MORE",
+  "offer_description": "ASICS Coupon: $40 Off Your Order"
 },
 "offer3": {
-  "offer_title": "20% Off with this Code",
-  "Coupon_code":  "SPARKLE",
-  "offer_description": "20% Off Jewelry with Macy's Code"
+  "offer_title": "ASICS Coupon Code",
+  "Coupon_code":  "SPRING20",
+  "offer_description": "ASICS Coupon Code: Take Extra $20 Off Any Fuji Lite and Fujispeed Shoes $200+"
 },
 "offer4": {
-  "offer_title": "Extra 15% Off",
-  "Coupon_code":  "SPRING",
-  "offer_description": "Extra 15% Off Your Order with Macys Promo Code"
+  "offer_title": "Save on legendary GT-2000",
+  "Coupon_code":  "GT2K",
+  "offer_description": "Save on legendary GT-2000 10 with code"
 },
 "offer5": {
-  "offer_title": "Promo: Free Shipping at $49",
-  "Coupon_code":  "GIVE",
-  "offer_description": "Macy's Promo: Free Shipping at $49"
+  "offer_title": "Save 20% Off",
+  "Coupon_code":  "APPREC8U",
+  "offer_description": "Save 20% Off using Coupon Code"
+}
+
+}],
+"asos_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Asos Coupon",
+  "Coupon_code":  "VACATION",
+  "offer_description": "Asos Coupon: 25% Off All Orders"
+},
+"offer2": {
+  "offer_title": "Get Up to 10% Off",
+  "Coupon_code":  "TEAMASOS",
+  "offer_description": "Get Up to 10% Off with Coupon Code"
+},
+"offer3": {
+  "offer_title": "Take 20% Off",
+  "Coupon_code":  "AUTUMN",
+  "offer_description": "Take 20% Off Your Order"
+},
+"offer4": {
+  "offer_title": "Save 20% Off",
+  "Coupon_code":  "SLAY",
+  "offer_description": "Save 20% Off Your Purchase"
+},
+"offer5": {
+  "offer_title": "Save 80% Off",
+  "Coupon_code":  "SUMMER",
+  "offer_description": "Save 80% Off Using Code"
+}
+
+}],
+"banak_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Get Up to 20% Off",
+  "Coupon_code":  "MOTHERSDAY20",
+  "offer_description": "MOTHERS DAY Coupon: 20% Off All Orders"
+},
+"offer2": {
+  "offer_title": "Get Up to 10% Off",
+  "Coupon_code":  "WELCOME10",
+  "offer_description": "Get Up to 10% Off with Coupon Code"
+},
+"offer3": {
+  "offer_title": "Take 15% Off",
+  "Coupon_code":  "MOM15",
+  "offer_description": "Take 20% Off Your Order"
+},
+"offer4": {
+  "offer_title": "Save 20% Off",
+  "Coupon_code":  "THANKYOU",
+  "offer_description": "Save 20% Off Your Purchase"
+},
+"offer5": {
+  "offer_title": "Save 20% Off",
+  "Coupon_code":  "MAMA20",
+  "offer_description": "Save 80% Off Using Code"
+}
+
+}],
+"bodum_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Get Additional 10% Off",
+  "Coupon_code":  "BODUM_10",
+  "offer_description": "Get Additional 10% Discount On Entire Order"
+},
+"offer2": {
+  "offer_title": "Bodum Discount Code",
+  "Coupon_code":  "SALEDUCK10",
+  "offer_description": "Bodum Discount Code: Get 10% Off Your Order"
+},
+"offer3": {
+  "offer_title": "Save Up To 5%",
+  "Coupon_code":  "OLOGY12",
+  "offer_description": "Save Up To 5% On Selected Items"
+},
+"offer4": {
+  "offer_title": "Save 15% Off",
+  "Coupon_code":  "linkgains15",
+  "offer_description": "Save 15% Using This Special Coupon Code"
+},
+"offer5": {
+  "offer_title": "Bodum Promo Code",
+  "Coupon_code":  "CART10",
+  "offer_description": "Bodum Promo Code: Save Extra 10% Your Order"
+}
+
+}],
+"bouxavenue_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Take Up to 20% Off",
+  "Coupon_code":  "LUCKY",
+  "offer_description": "Take Up to 20% Off"
+},
+"offer2": {
+  "offer_title": "Enjoy 10% Savings",
+  "Coupon_code":  "VCODES10OFF",
+  "offer_description": "Enjoy 10% Savings Using Promotional Code"
+},
+"offer3": {
+  "offer_title": "Get 20% Off",
+  "Coupon_code":  "PCRM-GFO4-DW",
+  "offer_description": "Get 20% Off Eligible Orders"
+},
+"offer4": {
+  "offer_title": "Save 15% Off",
+  "Coupon_code":  "HARRIETBOUX15",
+  "offer_description": "Get 15% Off On Your Shopping"
+},
+"offer5": {
+  "offer_title": "Boux Avenue coupon code",
+  "Coupon_code":  "NEXTDAY",
+  "offer_description": "Use this Boux Avenue coupon code at checkout to enjoy £1 next day delivery."
+}
+
+}],
+"carters_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Get a $20 Bonus",
+  "Coupon_code":  "FLASH20",
+  "offer_description": "Get a $20 Bonus Card with Purchase at Carter's"
+},
+"offer2": {
+  "offer_title": "Carter's Discount Code",
+  "Coupon_code":  "SPRING",
+  "offer_description": "Carter's Discount Code: Free $10 Gift Card"
+},
+"offer3": {
+  "offer_title": "Carter's Promo",
+  "Coupon_code":  "CYBER20",
+  "offer_description": "Carter's Promo: 50-60% Off + Extra 20% Off"
+},
+"offer4": {
+  "offer_title": "Carter's Coupon",
+  "Coupon_code":  "COZY20",
+  "offer_description": "Carter's Coupon: Extra 20% Off Your Order"
+},
+"offer5": {
+  "offer_title": "70% off Clearance + Extra 10%",
+  "Coupon_code":  "NICELIST10",
+  "offer_description": "70% off Clearance + Extra 10% with Carter's Coupon"
+}
+
+}],
+"cheapoair_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "CheapOair Deals",
+  "Coupon_code":  "VUELO35",
+  "offer_description": "CheapOair Deals: Save 35% Off on Flights"
+},
+"offer2": {
+  "offer_title": "Get 45% Off",
+  "Coupon_code":  "PP45",
+  "offer_description": "Get 45% Off Your Purchase"
+},
+"offer3": {
+  "offer_title": "45% Off Your Purchase",
+  "Coupon_code":  "COUPERT45",
+  "offer_description": "45% Off Your Purchase"
+},
+"offer4": {
+  "offer_title": "CheapOair Coupon",
+  "Coupon_code":  "BEFRUGAL30",
+  "offer_description": "CheapOair Coupon: Up to 30% Off Your Booking"
+},
+"offer5": {
+  "offer_title": "CheapOair Discount Code",
+  "Coupon_code":  "OW20",
+  "offer_description": "CheapOair Discount Code: Save $20 on Fees on Flights"
+}
+
+}],
+"computeruniverse_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Get Sony Playstation 5",
+  "Coupon_code":  "lgps5a",
+  "offer_description": "Get Sony Playstation 5 Disc Version For Free Storewide at Computer Universe"
+},
+"offer2": {
+  "offer_title": "5$ OFF",
+  "Coupon_code":  "FWWLWG91",
+  "offer_description": "5$ OFF Off Your Purchase"
+},
+"offer3": {
+  "offer_title": "Take 20% Off Using Code",
+  "Coupon_code":  "SIGNUP20",
+  "offer_description": "Take 20% Off Using Code"
+},
+"offer4": {
+  "offer_title": "Enjoy 10% With Code",
+  "Coupon_code":  "PREUPDATE10",
+  "offer_description": "Enjoy 10% With Code"
+},
+"offer5": {
+  "offer_title": "Get Big Discount With Code",
+  "Coupon_code":  "LTOFFER2023",
+  "offer_description": "Copy the code and shop at computeruniverse.net"
+}
+
+}],
+"EddieBauer_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Extra 40% Off Your Order",
+  "Coupon_code":  "SUN40",
+  "offer_description": "Extra 40% Off Your Order"
+},
+"offer2": {
+  "offer_title": "Enjoy 5% Savings",
+  "Coupon_code":  "EBESSENTIALS",
+  "offer_description": "Enjoy 5% Savings With Coupon"
+},
+"offer3": {
+  "offer_title": "Save Extra 40%",
+  "Coupon_code":  "SNOWSHOE40",
+  "offer_description": "Save Extra 40% on Any Purchase"
+},
+"offer4": {
+  "offer_title": "Enjoy 50% With Code",
+  "Coupon_code":  "PUMPKINS50",
+  "offer_description": "Eddie Bauer Coupon Code: 50% Off Your Order"
+},
+"offer5": {
+  "offer_title": "Save 60% Off Clearance",
+  "Coupon_code":  "SPRING60",
+  "offer_description": "Save 60% Off Clearance"
+}
+
+}],
+"eDreams_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Get $20 Discount",
+  "Coupon_code":  "4THJULYINTED",
+  "offer_description": "Get $20 Discount Using Promotional Code"
+},
+"offer2": {
+  "offer_title": "Get $15 Discount",
+  "Coupon_code":  "FLY15EDUS",
+  "offer_description": "Get $15 Discount Using Promo Code"
+},
+"offer3": {
+  "offer_title": "Enjoy $20 Savings",
+  "Coupon_code":  "20EDREAMS",
+  "offer_description": "Enjoy $20 Savings with Minimum Spend"
+},
+"offer4": {
+  "offer_title": "Save $10",
+  "Coupon_code":  "APP10",
+  "offer_description": "Save $10 on First App Flight Booking Over $200+"
+},
+"offer5": {
+  "offer_title": "Take $70 Off",
+  "Coupon_code":  "SALES70",
+  "offer_description": "Take $70 Off"
+}
+
+}],
+"eobuv_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-3940256099942544/2247696110",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/belvilla-unlocking-unique-vacation-experiences/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Dodatočných -20%",
+  "Coupon_code":  "klarna20",
+  "offer_description": "Dodatočných -20% Na Vybrané Produkty Do 15.05. S Kódom"
+},
+"offer2": {
+  "offer_title": "Jar Je Tu! -20%",
+  "Coupon_code":  "MH20",
+  "offer_description": "Jar Je Tu! -20% Pri Nákupe Za Min. 95 € Na Vybrané Produkty Do 05.05. S Kódom"
+},
+"offer3": {
+  "offer_title": "Extra -15%!",
+  "Coupon_code":  "FV15",
+  "offer_description": "Extra -15%! Darujte Niečo Výnimočné"
+},
+"offer4": {
+  "offer_title": "Save $10",
+  "Coupon_code":  "ES10",
+  "offer_description": "Save $10 on First App Flight Booking Over $200+"
+},
+"offer5": {
+  "offer_title": "Take $70 Off",
+  "Coupon_code":  "SALES70",
+  "offer_description": "Take $70 Off"
+}
+
+}],
+"holland_barret_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-4489295318592466/4425909055",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/holland-and-barrett-your-destination-for-quality-health-supplements/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "SAVE 20% on orders over £20",
+  "Coupon_code":  "QUICK",
+  "offer_description": "SAVE 20% on orders over £20 or 15% on orders over £30 using this Holland & Barrett discount code"
+},
+"offer2": {
+  "offer_title": "Get 10% OFF £25 or 15% OFF £35",
+  "Coupon_code":  "PICKME",
+  "offer_description": "Get 10% OFF £25 or 15% OFF £35 using this Holland & Barrett promo code"
+},
+"offer3": {
+  "offer_title": "Enjoy 15% off when you use this promo code",
+  "Coupon_code":  "BONUS",
+  "offer_description": "Enjoy 15% off when you use this promo code"
+},
+"offer4": {
+  "offer_title": "Up to 50% off vitamins and supplements",
+  "Coupon_code":  "QUICK",
+  "offer_description": "Up to 50% off vitamins and supplements at Holland and Barrett"
+},
+"offer5": {
+  "offer_title": "22% off App Orders Over £35",
+  "Coupon_code":  "Quick22",
+  "offer_description": "22% off App Orders Over £35 with This Holland and Barrett Discount Code"
+}
+
+}],
+"kenay_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-4489295318592466/4425909055",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/holland-and-barrett-your-destination-for-quality-health-supplements/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "SAVE 20% on orders over £20",
+  "Coupon_code":  "MASTERCARD20",
+  "offer_description": "SAVE 20% on orders over £20 or 15% on orders over £30"
+},
+"offer2": {
+  "offer_title": "Get 10% OFF £25 or 15% OFF £35",
+  "Coupon_code":  "PICKME",
+  "offer_description": "Get 10% OFF £25 or 15% OFF £35 using this promo code"
+},
+"offer3": {
+  "offer_title": "Enjoy 15% off when you use this promo code",
+  "Coupon_code":  "BONUS",
+  "offer_description": "Enjoy 15% off when you use this promo code"
+},
+"offer4": {
+  "offer_title": "Up to 50% off vitamins and supplements",
+  "Coupon_code":  "QUICK",
+  "offer_description": "Up to 50% off vitamins and supplements"
+},
+"offer5": {
+  "offer_title": "22% off App Orders Over £35",
+  "Coupon_code":  "Quick22",
+  "offer_description": "22% off App Orders Over £35 with This Discount Code"
+}
+
+}],
+"kiehls_amazon":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-4489295318592466/4425909055",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/holland-and-barrett-your-destination-for-quality-health-supplements/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "Get Up to 15% Off",
+  "Coupon_code":  "GLOW",
+  "offer_description": "Get Up to 15% Off Sitewide with Promo Code"
+},
+"offer2": {
+  "offer_title": "Kiehl's Discount Code",
+  "Coupon_code":  "F382KDP",
+  "offer_description": "Kiehl's Discount Code: Save 30% on Any Purchase"
+},
+"offer3": {
+  "offer_title": "Get 10% Off With Code",
+  "Coupon_code":  "SERUMS",
+  "offer_description": "Get 10% Off With Code"
+},
+"offer4": {
+  "offer_title": "Take $5 Off with Code",
+  "Coupon_code":  "VICTORY",
+  "offer_description": "Take $5 Off with Code"
+},
+"offer5": {
+  "offer_title": "Get 50% Off",
+  "Coupon_code":  "GLAZED",
+  "offer_description": "Get 50% Off Select Items with Promo Code"
 }
 
 }]

@@ -2219,6 +2219,43 @@
   "offer_description": "Macy's Promo: Free Shipping at $49"
 }
 
+}],
+"shopping_coupons":
+
+[{
+"FB_nativeAds": "ca-app-pub-3940256099942544/1033173712",
+"admob_nativeAds": "ca-app-pub-4489295318592466/5962669233",
+"ShowAds": "no",
+"AdsType": "admob",
+"Show_website": "no",
+"URLtoLunch": "https://answeredqst.com/11teamsports/",
+"FB_Interstitial": "1597429594030505_1597429660697165",
+"offer1": {
+  "offer_title": "11 € 11teamsports Gutscheincode",
+  "Coupon_code":  "BLCKFRDY23PHPLOSO",
+  "offer_description": "Nicht verpassen! 11€ 11Teamsports Gutschein"
+},
+"offer2": {
+  "offer_title": "11Teamsports Gutscheincode auf gratis Versand sichern",
+  "Coupon_code":  "sieheDetails",
+  "offer_description": "11Teamsports Gutscheincode auf gratis Versand sichern"
+},
+"offer3": {
+  "offer_title": "20% Off Jewelry with Macy's Code",
+  "Coupon_code":  "SPARKLE",
+  "offer_description": "20% Off Jewelry with Macy's Code"
+},
+"offer4": {
+  "offer_title": "Extra 15% Off",
+  "Coupon_code":  "SPRING",
+  "offer_description": "Extra 15% Off Your Order with Macys Promo Code"
+},
+"offer5": {
+  "offer_title": "Macy's Promo: Free Shipping at $49",
+  "Coupon_code":  "GIVE",
+  "offer_description": "Macy's Promo: Free Shipping at $49"
+}
+
 }]
 
 

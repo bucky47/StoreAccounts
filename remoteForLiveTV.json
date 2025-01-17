@@ -3619,6 +3619,7 @@
 "admob_app_id": "ca-app-pub-4489295318592466~8423372509",
 "admob_publisher_id": "ca-app-pub-4489295318592466",
 "FB_Banner": "1087560115886621_10875602025532759",
+"FB_NativeAds": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 "FB_Interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 "AdsType": "f",
 "ShowAds": "yes",

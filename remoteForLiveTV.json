@@ -2480,7 +2480,7 @@
 "admob_publisher_id": "ca-app-pub-4489295318592466",
 "FB_Banner": "793572902323128_793572982323120",
 "FB_Interstitial": "793572902323128_793572985656453",
-"AdsType": "f",
+"AdsType": "admob",
 "ShowAds": "yes",
 "ShowVideoAds": "1",
 "URLtoLunch1": "https://www.currysplc.com/media/zq4jr0yr/currys-annual-report-accounts-2122.pdf",
